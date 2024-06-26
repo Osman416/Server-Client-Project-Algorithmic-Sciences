@@ -1,0 +1,1890 @@
+2024-06-24 21:00:34,220 - Server started on 0.0.0.0:12345
+2024-06-24 21:04:12,004 - Received query: TEST STRING from ('127.0.0.1', 58124)
+2024-06-24 21:04:12,055 - Execution time: 0.050893 seconds
+2024-06-24 21:04:12,055 - Search result sent to ('127.0.0.1', 58124)
+2024-06-24 21:15:06,621 - Server started on 0.0.0.0:12345
+2024-06-24 21:15:26,603 - Received query: TEST STRING from ('127.0.0.1', 59858)
+2024-06-24 21:15:26,653 - Execution time: 0.049997 seconds
+2024-06-24 21:15:26,653 - Search result sent to ('127.0.0.1', 59858)
+2024-06-24 21:16:16,032 - Received query: TEST STRING from ('127.0.0.1', 60123)
+2024-06-24 21:16:16,035 - Execution time: 0.002001 seconds
+2024-06-24 21:16:16,035 - Search result sent to ('127.0.0.1', 60123)
+2024-06-24 21:16:39,680 - Received query: 19;0;1;11;0;8;5;0; from ('127.0.0.1', 60379)
+2024-06-24 21:16:39,680 - Execution time: 0.000000 seconds
+2024-06-24 21:16:39,680 - Search result sent to ('127.0.0.1', 60379)
+2024-06-24 21:25:17,320 - Received query:  from ('127.0.0.1', 60745)
+2024-06-24 21:25:17,320 - Execution time: 0.000000 seconds
+2024-06-24 21:25:17,320 - Search result sent to ('127.0.0.1', 60745)
+2024-06-24 21:26:08,870 - Received query: 19;0;1;11;0;8;5;0; from ('127.0.0.1', 60763)
+2024-06-24 21:26:08,870 - Execution time: 0.000000 seconds
+2024-06-24 21:26:08,871 - Search result sent to ('127.0.0.1', 60763)
+2024-06-24 21:36:01,549 - Server started on 0.0.0.0:12345
+2024-06-24 21:36:02,553 - Received query: TEST STRING
+ from ('127.0.0.1', 61016)
+2024-06-24 21:36:02,601 - Execution time: 0.048970 seconds
+2024-06-24 21:36:02,601 - Search result sent to ('127.0.0.1', 61016)
+2024-06-24 21:36:03,604 - Received query: NON-EXISTENT STRING
+ from ('127.0.0.1', 61023)
+2024-06-24 21:36:03,607 - Execution time: 0.002998 seconds
+2024-06-24 21:36:03,607 - Search result sent to ('127.0.0.1', 61023)
+2024-06-24 22:00:40,345 - Server started on 0.0.0.0:12345
+2024-06-24 22:10:30,959 - Received query: hi from ('127.0.0.1', 62268)
+2024-06-24 22:10:31,008 - Execution time: 0.049637 seconds
+2024-06-24 22:10:31,008 - Search result sent to ('127.0.0.1', 62268)
+2024-06-24 22:14:39,019 - Received query: TEST STRING
+ from ('127.0.0.1', 62828)
+2024-06-24 22:14:39,022 - Execution time: 0.004001 seconds
+2024-06-24 22:14:39,022 - Search result sent to ('127.0.0.1', 62828)
+2024-06-24 22:14:40,025 - Received query: NON-EXISTENT STRING
+ from ('127.0.0.1', 62835)
+2024-06-24 22:14:40,028 - Execution time: 0.003031 seconds
+2024-06-24 22:14:40,028 - Search result sent to ('127.0.0.1', 62835)
+2024-06-24 23:46:50,494 - Server started on 0.0.0.0:12345
+2024-06-24 23:47:14,125 - DEBUG: Received query: hi from ('127.0.0.1', 64593)
+2024-06-24 23:47:14,177 - DEBUG: Execution time: 0.052029 seconds
+2024-06-24 23:47:14,177 - DEBUG: Search result sent to ('127.0.0.1', 64593)
+2024-06-24 23:47:25,716 - DEBUG: Received query: 19;0;1;11;0;8;5;0; from ('127.0.0.1', 64595)
+2024-06-24 23:47:25,717 - DEBUG: Execution time: 0.001000 seconds
+2024-06-24 23:47:25,717 - DEBUG: Search result sent to ('127.0.0.1', 64595)
+2024-06-25 00:05:04,862 - DEBUG: Received query: 5 from ('127.0.0.1', 65134)
+2024-06-25 00:05:04,914 - DEBUG: Execution time: 0.052647 seconds
+2024-06-25 00:05:04,914 - DEBUG: Search result sent to ('127.0.0.1', 65134)
+2024-06-25 00:13:45,969 - Server started on 0.0.0.0:12345
+2024-06-25 00:19:06,094 - Server started on 0.0.0.0:12345
+2024-06-25 00:27:37,855 - DEBUG: Received query: hi from ('127.0.0.1', 49586)
+2024-06-25 00:27:37,909 - DEBUG: Execution time: 0.054668 seconds
+2024-06-25 00:27:37,909 - DEBUG: Search result sent to ('127.0.0.1', 49586)
+2024-06-25 01:04:45,814 - Server started on 0.0.0.0:12345
+2024-06-25 01:05:00,633 - DEBUG: Received query: hi from ('127.0.0.1', 51325)
+2024-06-25 01:05:00,685 - DEBUG: Execution time: 0.051671 seconds
+2024-06-25 01:05:00,685 - DEBUG: Search result sent to ('127.0.0.1', 51325)
+2024-06-25 01:43:54,681 - Server started on 0.0.0.0:12345
+2024-06-25 01:44:22,435 - Received query: hi from ('127.0.0.1', 52543)
+2024-06-25 01:44:22,487 - Execution time: 0.051999 seconds
+2024-06-25 01:44:22,488 - Search result sent to ('127.0.0.1', 52543)
+2024-06-25 01:56:00,644 - Received query: hello from ('127.0.0.1', 52783)
+2024-06-25 01:56:00,696 - Execution time: 0.051630 seconds
+2024-06-25 01:56:00,696 - Search result sent to ('127.0.0.1', 52783)
+2024-06-25 01:56:00,697 - Received query: hello from ('127.0.0.1', 52784)
+2024-06-25 01:56:00,751 - Execution time: 0.054003 seconds
+2024-06-25 01:56:00,751 - Search result sent to ('127.0.0.1', 52784)
+2024-06-25 01:56:00,752 - Received query: hello from ('127.0.0.1', 52785)
+2024-06-25 01:56:00,803 - Execution time: 0.050967 seconds
+2024-06-25 01:56:00,803 - Search result sent to ('127.0.0.1', 52785)
+2024-06-25 01:56:00,804 - Received query: hello from ('127.0.0.1', 52786)
+2024-06-25 01:56:00,856 - Execution time: 0.051571 seconds
+2024-06-25 01:56:00,857 - Search result sent to ('127.0.0.1', 52786)
+2024-06-25 01:56:00,857 - Received query: hello from ('127.0.0.1', 52787)
+2024-06-25 01:56:00,913 - Execution time: 0.056375 seconds
+2024-06-25 01:56:00,913 - Search result sent to ('127.0.0.1', 52787)
+2024-06-25 01:56:00,915 - Received query: hello from ('127.0.0.1', 52788)
+2024-06-25 01:56:00,965 - Execution time: 0.050517 seconds
+2024-06-25 01:56:00,965 - Search result sent to ('127.0.0.1', 52788)
+2024-06-25 01:56:00,966 - Received query: hello from ('127.0.0.1', 52789)
+2024-06-25 01:56:01,017 - Execution time: 0.051001 seconds
+2024-06-25 01:56:01,017 - Search result sent to ('127.0.0.1', 52789)
+2024-06-25 01:56:01,018 - Received query: hello from ('127.0.0.1', 52790)
+2024-06-25 01:56:01,068 - Execution time: 0.050200 seconds
+2024-06-25 01:56:01,069 - Search result sent to ('127.0.0.1', 52790)
+2024-06-25 01:56:01,069 - Received query: hello from ('127.0.0.1', 52791)
+2024-06-25 01:56:01,120 - Execution time: 0.051189 seconds
+2024-06-25 01:56:01,120 - Search result sent to ('127.0.0.1', 52791)
+2024-06-25 01:56:01,121 - Received query: hello from ('127.0.0.1', 52792)
+2024-06-25 01:56:01,171 - Execution time: 0.050000 seconds
+2024-06-25 01:56:01,171 - Search result sent to ('127.0.0.1', 52792)
+2024-06-25 01:56:01,171 - Received query: hello from ('127.0.0.1', 52793)
+2024-06-25 01:56:01,223 - Execution time: 0.052002 seconds
+2024-06-25 01:56:01,223 - Search result sent to ('127.0.0.1', 52793)
+2024-06-25 01:56:01,223 - Received query: hello from ('127.0.0.1', 52794)
+2024-06-25 01:56:01,274 - Execution time: 0.050206 seconds
+2024-06-25 01:56:01,275 - Search result sent to ('127.0.0.1', 52794)
+2024-06-25 01:56:01,275 - Received query: hello from ('127.0.0.1', 52795)
+2024-06-25 01:56:01,325 - Execution time: 0.050027 seconds
+2024-06-25 01:56:01,326 - Search result sent to ('127.0.0.1', 52795)
+2024-06-25 01:56:01,326 - Received query: hello from ('127.0.0.1', 52796)
+2024-06-25 01:56:01,376 - Execution time: 0.049999 seconds
+2024-06-25 01:56:01,377 - Search result sent to ('127.0.0.1', 52796)
+2024-06-25 01:56:01,377 - Received query: hello from ('127.0.0.1', 52797)
+2024-06-25 01:56:01,429 - Execution time: 0.052000 seconds
+2024-06-25 01:56:01,429 - Search result sent to ('127.0.0.1', 52797)
+2024-06-25 01:56:01,430 - Received query: hello from ('127.0.0.1', 52798)
+2024-06-25 01:56:01,480 - Execution time: 0.050272 seconds
+2024-06-25 01:56:01,480 - Search result sent to ('127.0.0.1', 52798)
+2024-06-25 01:56:01,481 - Received query: hello from ('127.0.0.1', 52799)
+2024-06-25 01:56:01,531 - Execution time: 0.050001 seconds
+2024-06-25 01:56:01,531 - Search result sent to ('127.0.0.1', 52799)
+2024-06-25 01:56:01,532 - Received query: hello from ('127.0.0.1', 52800)
+2024-06-25 01:56:01,584 - Execution time: 0.051996 seconds
+2024-06-25 01:56:01,584 - Search result sent to ('127.0.0.1', 52800)
+2024-06-25 01:56:01,585 - Received query: hello from ('127.0.0.1', 52801)
+2024-06-25 01:56:01,634 - Execution time: 0.050003 seconds
+2024-06-25 01:56:01,635 - Search result sent to ('127.0.0.1', 52801)
+2024-06-25 01:56:01,635 - Received query: hello from ('127.0.0.1', 52802)
+2024-06-25 01:56:01,685 - Execution time: 0.050271 seconds
+2024-06-25 01:56:01,685 - Search result sent to ('127.0.0.1', 52802)
+2024-06-25 01:56:01,686 - Received query: hello from ('127.0.0.1', 52803)
+2024-06-25 01:56:01,737 - Execution time: 0.051091 seconds
+2024-06-25 01:56:01,738 - Search result sent to ('127.0.0.1', 52803)
+2024-06-25 01:56:01,738 - Received query: hello from ('127.0.0.1', 52804)
+2024-06-25 01:56:01,789 - Execution time: 0.051036 seconds
+2024-06-25 01:56:01,789 - Search result sent to ('127.0.0.1', 52804)
+2024-06-25 01:56:01,790 - Received query: hello from ('127.0.0.1', 52805)
+2024-06-25 01:56:01,840 - Execution time: 0.050025 seconds
+2024-06-25 01:56:01,840 - Search result sent to ('127.0.0.1', 52805)
+2024-06-25 01:56:01,841 - Received query: hello from ('127.0.0.1', 52806)
+2024-06-25 01:56:01,890 - Execution time: 0.049604 seconds
+2024-06-25 01:56:01,890 - Search result sent to ('127.0.0.1', 52806)
+2024-06-25 01:56:01,891 - Received query: hello from ('127.0.0.1', 52807)
+2024-06-25 01:56:01,942 - Execution time: 0.050611 seconds
+2024-06-25 01:56:01,942 - Search result sent to ('127.0.0.1', 52807)
+2024-06-25 01:56:01,943 - Received query: hello from ('127.0.0.1', 52808)
+2024-06-25 01:56:01,998 - Execution time: 0.054635 seconds
+2024-06-25 01:56:01,998 - Search result sent to ('127.0.0.1', 52808)
+2024-06-25 01:56:01,998 - Received query: hello from ('127.0.0.1', 52809)
+2024-06-25 01:56:02,053 - Execution time: 0.054392 seconds
+2024-06-25 01:56:02,053 - Search result sent to ('127.0.0.1', 52809)
+2024-06-25 01:56:02,054 - Received query: hello from ('127.0.0.1', 52810)
+2024-06-25 01:56:02,104 - Execution time: 0.050748 seconds
+2024-06-25 01:56:02,104 - Search result sent to ('127.0.0.1', 52810)
+2024-06-25 01:56:02,105 - Received query: hello from ('127.0.0.1', 52811)
+2024-06-25 01:56:02,156 - Execution time: 0.050737 seconds
+2024-06-25 01:56:02,156 - Search result sent to ('127.0.0.1', 52811)
+2024-06-25 01:56:02,156 - Received query: hello from ('127.0.0.1', 52812)
+2024-06-25 01:56:02,206 - Execution time: 0.049999 seconds
+2024-06-25 01:56:02,206 - Search result sent to ('127.0.0.1', 52812)
+2024-06-25 01:56:02,207 - Received query: hello from ('127.0.0.1', 52813)
+2024-06-25 01:56:02,256 - Execution time: 0.050035 seconds
+2024-06-25 01:56:02,256 - Search result sent to ('127.0.0.1', 52813)
+2024-06-25 01:56:02,257 - Received query: hello from ('127.0.0.1', 52814)
+2024-06-25 01:56:02,306 - Execution time: 0.048661 seconds
+2024-06-25 01:56:02,306 - Search result sent to ('127.0.0.1', 52814)
+2024-06-25 01:56:02,307 - Received query: hello from ('127.0.0.1', 52815)
+2024-06-25 01:56:02,358 - Execution time: 0.051608 seconds
+2024-06-25 01:56:02,358 - Search result sent to ('127.0.0.1', 52815)
+2024-06-25 01:56:02,358 - Received query: hello from ('127.0.0.1', 52816)
+2024-06-25 01:56:02,410 - Execution time: 0.052000 seconds
+2024-06-25 01:56:02,410 - Search result sent to ('127.0.0.1', 52816)
+2024-06-25 01:56:02,411 - Received query: hello from ('127.0.0.1', 52817)
+2024-06-25 01:56:02,461 - Execution time: 0.049999 seconds
+2024-06-25 01:56:02,461 - Search result sent to ('127.0.0.1', 52817)
+2024-06-25 01:56:02,461 - Received query: hello from ('127.0.0.1', 52818)
+2024-06-25 01:56:02,512 - Execution time: 0.050618 seconds
+2024-06-25 01:56:02,512 - Search result sent to ('127.0.0.1', 52818)
+2024-06-25 01:56:02,513 - Received query: hello from ('127.0.0.1', 52819)
+2024-06-25 01:56:02,563 - Execution time: 0.049693 seconds
+2024-06-25 01:56:02,563 - Search result sent to ('127.0.0.1', 52819)
+2024-06-25 01:56:02,563 - Received query: hello from ('127.0.0.1', 52820)
+2024-06-25 01:56:02,614 - Execution time: 0.050969 seconds
+2024-06-25 01:56:02,614 - Search result sent to ('127.0.0.1', 52820)
+2024-06-25 01:56:02,615 - Received query: hello from ('127.0.0.1', 52821)
+2024-06-25 01:56:02,665 - Execution time: 0.050001 seconds
+2024-06-25 01:56:02,665 - Search result sent to ('127.0.0.1', 52821)
+2024-06-25 01:56:02,666 - Received query: hello from ('127.0.0.1', 52822)
+2024-06-25 01:56:02,715 - Execution time: 0.049569 seconds
+2024-06-25 01:56:02,715 - Search result sent to ('127.0.0.1', 52822)
+2024-06-25 01:56:02,716 - Received query: hello from ('127.0.0.1', 52823)
+2024-06-25 01:56:02,767 - Execution time: 0.050619 seconds
+2024-06-25 01:56:02,767 - Search result sent to ('127.0.0.1', 52823)
+2024-06-25 01:56:02,768 - Received query: hello from ('127.0.0.1', 52824)
+2024-06-25 01:56:02,816 - Execution time: 0.047998 seconds
+2024-06-25 01:56:02,817 - Search result sent to ('127.0.0.1', 52824)
+2024-06-25 01:56:02,817 - Received query: hello from ('127.0.0.1', 52825)
+2024-06-25 01:56:02,867 - Execution time: 0.050001 seconds
+2024-06-25 01:56:02,867 - Search result sent to ('127.0.0.1', 52825)
+2024-06-25 01:56:02,867 - Received query: hello from ('127.0.0.1', 52826)
+2024-06-25 01:56:02,923 - Execution time: 0.056129 seconds
+2024-06-25 01:56:02,923 - Search result sent to ('127.0.0.1', 52826)
+2024-06-25 01:56:02,924 - Received query: hello from ('127.0.0.1', 52827)
+2024-06-25 01:56:02,979 - Execution time: 0.056295 seconds
+2024-06-25 01:56:02,979 - Search result sent to ('127.0.0.1', 52827)
+2024-06-25 01:56:02,979 - Received query: hello from ('127.0.0.1', 52828)
+2024-06-25 01:56:03,037 - Execution time: 0.057250 seconds
+2024-06-25 01:56:03,037 - Search result sent to ('127.0.0.1', 52828)
+2024-06-25 01:56:03,037 - Received query: hello from ('127.0.0.1', 52829)
+2024-06-25 01:56:03,087 - Execution time: 0.050023 seconds
+2024-06-25 01:56:03,088 - Search result sent to ('127.0.0.1', 52829)
+2024-06-25 01:56:03,088 - Received query: hello from ('127.0.0.1', 52830)
+2024-06-25 01:56:03,139 - Execution time: 0.051220 seconds
+2024-06-25 01:56:03,139 - Search result sent to ('127.0.0.1', 52830)
+2024-06-25 01:56:03,139 - Received query: hello from ('127.0.0.1', 52831)
+2024-06-25 01:56:03,188 - Execution time: 0.049029 seconds
+2024-06-25 01:56:03,188 - Search result sent to ('127.0.0.1', 52831)
+2024-06-25 01:56:03,189 - Received query: hello from ('127.0.0.1', 52832)
+2024-06-25 01:56:03,239 - Execution time: 0.050002 seconds
+2024-06-25 01:56:03,239 - Search result sent to ('127.0.0.1', 52832)
+2024-06-25 01:56:03,240 - Received query: hello from ('127.0.0.1', 52833)
+2024-06-25 01:56:03,291 - Execution time: 0.049994 seconds
+2024-06-25 01:56:03,291 - Search result sent to ('127.0.0.1', 52833)
+2024-06-25 01:56:03,291 - Received query: hello from ('127.0.0.1', 52834)
+2024-06-25 01:56:03,341 - Execution time: 0.050150 seconds
+2024-06-25 01:56:03,341 - Search result sent to ('127.0.0.1', 52834)
+2024-06-25 01:56:03,342 - Received query: hello from ('127.0.0.1', 52835)
+2024-06-25 01:56:03,395 - Execution time: 0.052999 seconds
+2024-06-25 01:56:03,395 - Search result sent to ('127.0.0.1', 52835)
+2024-06-25 01:56:03,396 - Received query: hello from ('127.0.0.1', 52836)
+2024-06-25 01:56:03,447 - Execution time: 0.051000 seconds
+2024-06-25 01:56:03,447 - Search result sent to ('127.0.0.1', 52836)
+2024-06-25 01:56:03,448 - Received query: hello from ('127.0.0.1', 52837)
+2024-06-25 01:56:03,498 - Execution time: 0.050029 seconds
+2024-06-25 01:56:03,498 - Search result sent to ('127.0.0.1', 52837)
+2024-06-25 01:56:03,499 - Received query: hello from ('127.0.0.1', 52838)
+2024-06-25 01:56:03,549 - Execution time: 0.050217 seconds
+2024-06-25 01:56:03,550 - Search result sent to ('127.0.0.1', 52838)
+2024-06-25 01:56:03,550 - Received query: hello from ('127.0.0.1', 52839)
+2024-06-25 01:56:03,601 - Execution time: 0.051002 seconds
+2024-06-25 01:56:03,601 - Search result sent to ('127.0.0.1', 52839)
+2024-06-25 01:56:03,602 - Received query: hello from ('127.0.0.1', 52840)
+2024-06-25 01:56:03,654 - Execution time: 0.052000 seconds
+2024-06-25 01:56:03,654 - Search result sent to ('127.0.0.1', 52840)
+2024-06-25 01:56:03,655 - Received query: hello from ('127.0.0.1', 52841)
+2024-06-25 01:56:03,711 - Execution time: 0.055999 seconds
+2024-06-25 01:56:03,712 - Search result sent to ('127.0.0.1', 52841)
+2024-06-25 01:56:03,712 - Received query: hello from ('127.0.0.1', 52842)
+2024-06-25 01:56:03,767 - Execution time: 0.055105 seconds
+2024-06-25 01:56:03,767 - Search result sent to ('127.0.0.1', 52842)
+2024-06-25 01:56:03,768 - Received query: hello from ('127.0.0.1', 52843)
+2024-06-25 01:56:03,821 - Execution time: 0.052997 seconds
+2024-06-25 01:56:03,822 - Search result sent to ('127.0.0.1', 52843)
+2024-06-25 01:56:03,822 - Received query: hello from ('127.0.0.1', 52844)
+2024-06-25 01:56:03,873 - Execution time: 0.050998 seconds
+2024-06-25 01:56:03,873 - Search result sent to ('127.0.0.1', 52844)
+2024-06-25 01:56:03,874 - Received query: hello from ('127.0.0.1', 52845)
+2024-06-25 01:56:03,930 - Execution time: 0.055614 seconds
+2024-06-25 01:56:03,930 - Search result sent to ('127.0.0.1', 52845)
+2024-06-25 01:56:03,931 - Received query: hello from ('127.0.0.1', 52846)
+2024-06-25 01:56:03,981 - Execution time: 0.050616 seconds
+2024-06-25 01:56:03,981 - Search result sent to ('127.0.0.1', 52846)
+2024-06-25 01:56:03,982 - Received query: hello from ('127.0.0.1', 52847)
+2024-06-25 01:56:04,035 - Execution time: 0.052999 seconds
+2024-06-25 01:56:04,035 - Search result sent to ('127.0.0.1', 52847)
+2024-06-25 01:56:04,035 - Received query: hello from ('127.0.0.1', 52848)
+2024-06-25 01:56:04,089 - Execution time: 0.053313 seconds
+2024-06-25 01:56:04,089 - Search result sent to ('127.0.0.1', 52848)
+2024-06-25 01:56:04,090 - Received query: hello from ('127.0.0.1', 52849)
+2024-06-25 01:56:04,143 - Execution time: 0.053392 seconds
+2024-06-25 01:56:04,143 - Search result sent to ('127.0.0.1', 52849)
+2024-06-25 01:56:04,144 - Received query: hello from ('127.0.0.1', 52850)
+2024-06-25 01:56:04,194 - Execution time: 0.050038 seconds
+2024-06-25 01:56:04,194 - Search result sent to ('127.0.0.1', 52850)
+2024-06-25 01:56:04,195 - Received query: hello from ('127.0.0.1', 52851)
+2024-06-25 01:56:04,245 - Execution time: 0.049998 seconds
+2024-06-25 01:56:04,245 - Search result sent to ('127.0.0.1', 52851)
+2024-06-25 01:56:04,246 - Received query: hello from ('127.0.0.1', 52852)
+2024-06-25 01:56:04,296 - Execution time: 0.049999 seconds
+2024-06-25 01:56:04,296 - Search result sent to ('127.0.0.1', 52852)
+2024-06-25 01:56:04,297 - Received query: hello from ('127.0.0.1', 52853)
+2024-06-25 01:56:04,347 - Execution time: 0.050590 seconds
+2024-06-25 01:56:04,347 - Search result sent to ('127.0.0.1', 52853)
+2024-06-25 01:56:04,348 - Received query: hello from ('127.0.0.1', 52854)
+2024-06-25 01:56:04,399 - Execution time: 0.050646 seconds
+2024-06-25 01:56:04,399 - Search result sent to ('127.0.0.1', 52854)
+2024-06-25 01:56:04,400 - Received query: hello from ('127.0.0.1', 52855)
+2024-06-25 01:56:04,449 - Execution time: 0.049001 seconds
+2024-06-25 01:56:04,449 - Search result sent to ('127.0.0.1', 52855)
+2024-06-25 01:56:04,450 - Received query: hello from ('127.0.0.1', 52856)
+2024-06-25 01:56:04,500 - Execution time: 0.049999 seconds
+2024-06-25 01:56:04,500 - Search result sent to ('127.0.0.1', 52856)
+2024-06-25 01:56:04,501 - Received query: hello from ('127.0.0.1', 52857)
+2024-06-25 01:56:04,550 - Execution time: 0.050561 seconds
+2024-06-25 01:56:04,550 - Search result sent to ('127.0.0.1', 52857)
+2024-06-25 01:56:04,550 - Received query: hello from ('127.0.0.1', 52858)
+2024-06-25 01:56:04,603 - Execution time: 0.052557 seconds
+2024-06-25 01:56:04,603 - Search result sent to ('127.0.0.1', 52858)
+2024-06-25 01:56:04,603 - Received query: hello from ('127.0.0.1', 52859)
+2024-06-25 01:56:04,656 - Execution time: 0.053001 seconds
+2024-06-25 01:56:04,656 - Search result sent to ('127.0.0.1', 52859)
+2024-06-25 01:56:04,657 - Received query: hello from ('127.0.0.1', 52860)
+2024-06-25 01:56:04,711 - Execution time: 0.055149 seconds
+2024-06-25 01:56:04,712 - Search result sent to ('127.0.0.1', 52860)
+2024-06-25 01:56:04,712 - Received query: hello from ('127.0.0.1', 52861)
+2024-06-25 01:56:04,763 - Execution time: 0.051170 seconds
+2024-06-25 01:56:04,764 - Search result sent to ('127.0.0.1', 52861)
+2024-06-25 01:56:04,764 - Received query: hello from ('127.0.0.1', 52862)
+2024-06-25 01:56:04,814 - Execution time: 0.050001 seconds
+2024-06-25 01:56:04,814 - Search result sent to ('127.0.0.1', 52862)
+2024-06-25 01:56:04,815 - Received query: hello from ('127.0.0.1', 52863)
+2024-06-25 01:56:04,865 - Execution time: 0.050000 seconds
+2024-06-25 01:56:04,865 - Search result sent to ('127.0.0.1', 52863)
+2024-06-25 01:56:04,866 - Received query: hello from ('127.0.0.1', 52864)
+2024-06-25 01:56:04,916 - Execution time: 0.049998 seconds
+2024-06-25 01:56:04,916 - Search result sent to ('127.0.0.1', 52864)
+2024-06-25 01:56:04,917 - Received query: hello from ('127.0.0.1', 52865)
+2024-06-25 01:56:04,972 - Execution time: 0.055185 seconds
+2024-06-25 01:56:04,972 - Search result sent to ('127.0.0.1', 52865)
+2024-06-25 01:56:04,973 - Received query: hello from ('127.0.0.1', 52866)
+2024-06-25 01:56:05,029 - Execution time: 0.056001 seconds
+2024-06-25 01:56:05,029 - Search result sent to ('127.0.0.1', 52866)
+2024-06-25 01:56:05,030 - Received query: hello from ('127.0.0.1', 52867)
+2024-06-25 01:56:05,081 - Execution time: 0.050987 seconds
+2024-06-25 01:56:05,082 - Search result sent to ('127.0.0.1', 52867)
+2024-06-25 01:56:05,083 - Received query: hello from ('127.0.0.1', 52868)
+2024-06-25 01:56:05,132 - Execution time: 0.049416 seconds
+2024-06-25 01:56:05,133 - Search result sent to ('127.0.0.1', 52868)
+2024-06-25 01:56:05,133 - Received query: hello from ('127.0.0.1', 52869)
+2024-06-25 01:56:05,183 - Execution time: 0.050145 seconds
+2024-06-25 01:56:05,183 - Search result sent to ('127.0.0.1', 52869)
+2024-06-25 01:56:05,184 - Received query: hello from ('127.0.0.1', 52870)
+2024-06-25 01:56:05,234 - Execution time: 0.050001 seconds
+2024-06-25 01:56:05,234 - Search result sent to ('127.0.0.1', 52870)
+2024-06-25 01:56:05,235 - Received query: hello from ('127.0.0.1', 52871)
+2024-06-25 01:56:05,286 - Execution time: 0.051000 seconds
+2024-06-25 01:56:05,286 - Search result sent to ('127.0.0.1', 52871)
+2024-06-25 01:56:05,287 - Received query: hello from ('127.0.0.1', 52872)
+2024-06-25 01:56:05,338 - Execution time: 0.050568 seconds
+2024-06-25 01:56:05,339 - Search result sent to ('127.0.0.1', 52872)
+2024-06-25 01:56:05,339 - Received query: hello from ('127.0.0.1', 52873)
+2024-06-25 01:56:05,389 - Execution time: 0.050245 seconds
+2024-06-25 01:56:05,389 - Search result sent to ('127.0.0.1', 52873)
+2024-06-25 01:56:05,389 - Received query: hello from ('127.0.0.1', 52874)
+2024-06-25 01:56:05,440 - Execution time: 0.051029 seconds
+2024-06-25 01:56:05,440 - Search result sent to ('127.0.0.1', 52874)
+2024-06-25 01:56:05,440 - Received query: hello from ('127.0.0.1', 52875)
+2024-06-25 01:56:05,490 - Execution time: 0.050000 seconds
+2024-06-25 01:56:05,490 - Search result sent to ('127.0.0.1', 52875)
+2024-06-25 01:56:05,491 - Received query: hello from ('127.0.0.1', 52876)
+2024-06-25 01:56:05,541 - Execution time: 0.050033 seconds
+2024-06-25 01:56:05,541 - Search result sent to ('127.0.0.1', 52876)
+2024-06-25 01:56:05,542 - Received query: hello from ('127.0.0.1', 52877)
+2024-06-25 01:56:05,592 - Execution time: 0.050174 seconds
+2024-06-25 01:56:05,592 - Search result sent to ('127.0.0.1', 52877)
+2024-06-25 01:56:05,593 - Received query: hello from ('127.0.0.1', 52878)
+2024-06-25 01:56:05,650 - Execution time: 0.057000 seconds
+2024-06-25 01:56:05,651 - Search result sent to ('127.0.0.1', 52878)
+2024-06-25 01:56:05,651 - Received query: hello from ('127.0.0.1', 52879)
+2024-06-25 01:56:05,703 - Execution time: 0.052001 seconds
+2024-06-25 01:56:05,703 - Search result sent to ('127.0.0.1', 52879)
+2024-06-25 01:56:05,703 - Received query: hello from ('127.0.0.1', 52880)
+2024-06-25 01:56:05,755 - Execution time: 0.050999 seconds
+2024-06-25 01:56:05,755 - Search result sent to ('127.0.0.1', 52880)
+2024-06-25 01:56:05,755 - Received query: hello from ('127.0.0.1', 52881)
+2024-06-25 01:56:05,807 - Execution time: 0.052193 seconds
+2024-06-25 01:56:05,807 - Search result sent to ('127.0.0.1', 52881)
+2024-06-25 01:56:05,808 - Received query: hello from ('127.0.0.1', 52882)
+2024-06-25 01:56:05,858 - Execution time: 0.050036 seconds
+2024-06-25 01:56:05,858 - Search result sent to ('127.0.0.1', 52882)
+2024-06-25 20:40:03,472 - Server started on 0.0.0.0:12345
+2024-06-25 20:40:12,633 - Received query: k from ('127.0.0.1', 49429)
+2024-06-25 20:40:12,686 - Execution time: 0.053000 seconds
+2024-06-25 20:40:12,687 - Search result sent to ('127.0.0.1', 49429)
+2024-06-25 20:41:40,939 - Received query: hello from ('127.0.0.1', 64194)
+2024-06-25 20:41:40,992 - Execution time: 0.052998 seconds
+2024-06-25 20:41:40,992 - Search result sent to ('127.0.0.1', 64194)
+2024-06-25 20:41:40,992 - Received query: hello from ('127.0.0.1', 64195)
+2024-06-25 20:41:41,045 - Execution time: 0.053032 seconds
+2024-06-25 20:41:41,045 - Search result sent to ('127.0.0.1', 64195)
+2024-06-25 20:41:41,046 - Received query: hello from ('127.0.0.1', 64196)
+2024-06-25 20:41:41,100 - Execution time: 0.053618 seconds
+2024-06-25 20:41:41,100 - Search result sent to ('127.0.0.1', 64196)
+2024-06-25 20:41:41,101 - Received query: hello from ('127.0.0.1', 64197)
+2024-06-25 20:41:41,151 - Execution time: 0.050002 seconds
+2024-06-25 20:41:41,152 - Search result sent to ('127.0.0.1', 64197)
+2024-06-25 20:41:41,152 - Received query: hello from ('127.0.0.1', 64198)
+2024-06-25 20:41:41,204 - Execution time: 0.052028 seconds
+2024-06-25 20:41:41,204 - Search result sent to ('127.0.0.1', 64198)
+2024-06-25 20:41:41,205 - Received query: hello from ('127.0.0.1', 64199)
+2024-06-25 20:41:41,255 - Execution time: 0.050971 seconds
+2024-06-25 20:41:41,256 - Search result sent to ('127.0.0.1', 64199)
+2024-06-25 20:41:41,256 - Received query: hello from ('127.0.0.1', 64200)
+2024-06-25 20:41:41,308 - Execution time: 0.051590 seconds
+2024-06-25 20:41:41,309 - Search result sent to ('127.0.0.1', 64200)
+2024-06-25 20:41:41,309 - Received query: hello from ('127.0.0.1', 64201)
+2024-06-25 20:41:41,362 - Execution time: 0.053680 seconds
+2024-06-25 20:41:41,363 - Search result sent to ('127.0.0.1', 64201)
+2024-06-25 20:41:41,363 - Received query: hello from ('127.0.0.1', 64202)
+2024-06-25 20:41:41,415 - Execution time: 0.052001 seconds
+2024-06-25 20:41:41,415 - Search result sent to ('127.0.0.1', 64202)
+2024-06-25 20:41:41,416 - Received query: hello from ('127.0.0.1', 64203)
+2024-06-25 20:41:41,466 - Execution time: 0.049588 seconds
+2024-06-25 20:41:41,466 - Search result sent to ('127.0.0.1', 64203)
+2024-06-25 20:41:41,467 - Received query: hello from ('127.0.0.1', 64204)
+2024-06-25 20:41:41,521 - Execution time: 0.053703 seconds
+2024-06-25 20:41:41,521 - Search result sent to ('127.0.0.1', 64204)
+2024-06-25 20:41:41,522 - Received query: hello from ('127.0.0.1', 64205)
+2024-06-25 20:41:41,573 - Execution time: 0.051474 seconds
+2024-06-25 20:41:41,573 - Search result sent to ('127.0.0.1', 64205)
+2024-06-25 20:41:41,574 - Received query: hello from ('127.0.0.1', 64206)
+2024-06-25 20:41:41,624 - Execution time: 0.050153 seconds
+2024-06-25 20:41:41,624 - Search result sent to ('127.0.0.1', 64206)
+2024-06-25 20:41:41,625 - Received query: hello from ('127.0.0.1', 64211)
+2024-06-25 20:41:41,675 - Execution time: 0.050026 seconds
+2024-06-25 20:41:41,675 - Search result sent to ('127.0.0.1', 64211)
+2024-06-25 20:41:41,676 - Received query: hello from ('127.0.0.1', 64212)
+2024-06-25 20:41:41,727 - Execution time: 0.050405 seconds
+2024-06-25 20:41:41,727 - Search result sent to ('127.0.0.1', 64212)
+2024-06-25 20:41:41,728 - Received query: hello from ('127.0.0.1', 64213)
+2024-06-25 20:41:41,780 - Execution time: 0.052000 seconds
+2024-06-25 20:41:41,780 - Search result sent to ('127.0.0.1', 64213)
+2024-06-25 20:41:41,781 - Received query: hello from ('127.0.0.1', 64214)
+2024-06-25 20:41:41,830 - Execution time: 0.049641 seconds
+2024-06-25 20:41:41,831 - Search result sent to ('127.0.0.1', 64214)
+2024-06-25 20:41:41,831 - Received query: hello from ('127.0.0.1', 64215)
+2024-06-25 20:41:41,881 - Execution time: 0.050028 seconds
+2024-06-25 20:41:41,881 - Search result sent to ('127.0.0.1', 64215)
+2024-06-25 20:41:41,882 - Received query: hello from ('127.0.0.1', 64218)
+2024-06-25 20:41:41,935 - Execution time: 0.052640 seconds
+2024-06-25 20:41:41,935 - Search result sent to ('127.0.0.1', 64218)
+2024-06-25 20:41:41,937 - Received query: hello from ('127.0.0.1', 64219)
+2024-06-25 20:41:41,987 - Execution time: 0.050560 seconds
+2024-06-25 20:41:41,987 - Search result sent to ('127.0.0.1', 64219)
+2024-06-25 20:41:41,988 - Received query: hello from ('127.0.0.1', 64220)
+2024-06-25 20:41:42,038 - Execution time: 0.050070 seconds
+2024-06-25 20:41:42,038 - Search result sent to ('127.0.0.1', 64220)
+2024-06-25 20:41:42,039 - Received query: hello from ('127.0.0.1', 64221)
+2024-06-25 20:41:42,089 - Execution time: 0.050066 seconds
+2024-06-25 20:41:42,089 - Search result sent to ('127.0.0.1', 64221)
+2024-06-25 20:41:42,089 - Received query: hello from ('127.0.0.1', 64222)
+2024-06-25 20:41:42,139 - Execution time: 0.049600 seconds
+2024-06-25 20:41:42,140 - Search result sent to ('127.0.0.1', 64222)
+2024-06-25 20:41:42,140 - Received query: hello from ('127.0.0.1', 64223)
+2024-06-25 20:41:42,189 - Execution time: 0.049068 seconds
+2024-06-25 20:41:42,190 - Search result sent to ('127.0.0.1', 64223)
+2024-06-25 20:41:42,190 - Received query: hello from ('127.0.0.1', 64224)
+2024-06-25 20:41:42,242 - Execution time: 0.052000 seconds
+2024-06-25 20:41:42,242 - Search result sent to ('127.0.0.1', 64224)
+2024-06-25 20:41:42,242 - Received query: hello from ('127.0.0.1', 64225)
+2024-06-25 20:41:42,292 - Execution time: 0.050000 seconds
+2024-06-25 20:41:42,293 - Search result sent to ('127.0.0.1', 64225)
+2024-06-25 20:41:42,293 - Received query: hello from ('127.0.0.1', 64228)
+2024-06-25 20:41:42,345 - Execution time: 0.052233 seconds
+2024-06-25 20:41:42,345 - Search result sent to ('127.0.0.1', 64228)
+2024-06-25 20:41:42,346 - Received query: hello from ('127.0.0.1', 64229)
+2024-06-25 20:41:42,396 - Execution time: 0.050001 seconds
+2024-06-25 20:41:42,397 - Search result sent to ('127.0.0.1', 64229)
+2024-06-25 20:41:42,397 - Received query: hello from ('127.0.0.1', 64230)
+2024-06-25 20:41:42,447 - Execution time: 0.049950 seconds
+2024-06-25 20:41:42,447 - Search result sent to ('127.0.0.1', 64230)
+2024-06-25 20:41:42,448 - Received query: hello from ('127.0.0.1', 64231)
+2024-06-25 20:41:42,498 - Execution time: 0.049999 seconds
+2024-06-25 20:41:42,498 - Search result sent to ('127.0.0.1', 64231)
+2024-06-25 20:41:42,499 - Received query: hello from ('127.0.0.1', 64232)
+2024-06-25 20:41:42,551 - Execution time: 0.051680 seconds
+2024-06-25 20:41:42,551 - Search result sent to ('127.0.0.1', 64232)
+2024-06-25 20:41:42,552 - Received query: hello from ('127.0.0.1', 64233)
+2024-06-25 20:41:42,602 - Execution time: 0.050275 seconds
+2024-06-25 20:41:42,602 - Search result sent to ('127.0.0.1', 64233)
+2024-06-25 20:41:42,603 - Received query: hello from ('127.0.0.1', 64234)
+2024-06-25 20:41:42,652 - Execution time: 0.049029 seconds
+2024-06-25 20:41:42,653 - Search result sent to ('127.0.0.1', 64234)
+2024-06-25 20:41:42,653 - Received query: hello from ('127.0.0.1', 64235)
+2024-06-25 20:41:42,704 - Execution time: 0.050830 seconds
+2024-06-25 20:41:42,704 - Search result sent to ('127.0.0.1', 64235)
+2024-06-25 20:41:42,704 - Received query: hello from ('127.0.0.1', 64236)
+2024-06-25 20:41:42,757 - Execution time: 0.052603 seconds
+2024-06-25 20:41:42,757 - Search result sent to ('127.0.0.1', 64236)
+2024-06-25 20:41:42,758 - Received query: hello from ('127.0.0.1', 64237)
+2024-06-25 20:41:42,807 - Execution time: 0.049034 seconds
+2024-06-25 20:41:42,807 - Search result sent to ('127.0.0.1', 64237)
+2024-06-25 20:41:42,808 - Received query: hello from ('127.0.0.1', 64238)
+2024-06-25 20:41:42,859 - Execution time: 0.050974 seconds
+2024-06-25 20:41:42,859 - Search result sent to ('127.0.0.1', 64238)
+2024-06-25 20:41:42,860 - Received query: hello from ('127.0.0.1', 64241)
+2024-06-25 20:41:42,910 - Execution time: 0.050699 seconds
+2024-06-25 20:41:42,910 - Search result sent to ('127.0.0.1', 64241)
+2024-06-25 20:41:42,912 - Received query: hello from ('127.0.0.1', 64244)
+2024-06-25 20:41:42,962 - Execution time: 0.050729 seconds
+2024-06-25 20:41:42,962 - Search result sent to ('127.0.0.1', 64244)
+2024-06-25 20:41:42,963 - Received query: hello from ('127.0.0.1', 64245)
+2024-06-25 20:41:43,014 - Execution time: 0.050999 seconds
+2024-06-25 20:41:43,014 - Search result sent to ('127.0.0.1', 64245)
+2024-06-25 20:41:43,015 - Received query: hello from ('127.0.0.1', 64246)
+2024-06-25 20:41:43,066 - Execution time: 0.051675 seconds
+2024-06-25 20:41:43,066 - Search result sent to ('127.0.0.1', 64246)
+2024-06-25 20:41:43,067 - Received query: hello from ('127.0.0.1', 64247)
+2024-06-25 20:41:43,117 - Execution time: 0.050107 seconds
+2024-06-25 20:41:43,117 - Search result sent to ('127.0.0.1', 64247)
+2024-06-25 20:41:43,118 - Received query: hello from ('127.0.0.1', 64248)
+2024-06-25 20:41:43,176 - Execution time: 0.057657 seconds
+2024-06-25 20:41:43,176 - Search result sent to ('127.0.0.1', 64248)
+2024-06-25 20:41:43,177 - Received query: hello from ('127.0.0.1', 64249)
+2024-06-25 20:41:43,228 - Execution time: 0.050999 seconds
+2024-06-25 20:41:43,228 - Search result sent to ('127.0.0.1', 64249)
+2024-06-25 20:41:43,229 - Received query: hello from ('127.0.0.1', 64250)
+2024-06-25 20:41:43,279 - Execution time: 0.050011 seconds
+2024-06-25 20:41:43,280 - Search result sent to ('127.0.0.1', 64250)
+2024-06-25 20:41:43,280 - Received query: hello from ('127.0.0.1', 64251)
+2024-06-25 20:41:43,331 - Execution time: 0.050998 seconds
+2024-06-25 20:41:43,331 - Search result sent to ('127.0.0.1', 64251)
+2024-06-25 20:41:43,332 - Received query: hello from ('127.0.0.1', 64252)
+2024-06-25 20:41:43,383 - Execution time: 0.051336 seconds
+2024-06-25 20:41:43,383 - Search result sent to ('127.0.0.1', 64252)
+2024-06-25 20:41:43,384 - Received query: hello from ('127.0.0.1', 64253)
+2024-06-25 20:41:43,438 - Execution time: 0.053999 seconds
+2024-06-25 20:41:43,438 - Search result sent to ('127.0.0.1', 64253)
+2024-06-25 20:41:43,438 - Received query: hello from ('127.0.0.1', 64254)
+2024-06-25 20:41:43,490 - Execution time: 0.052000 seconds
+2024-06-25 20:41:43,490 - Search result sent to ('127.0.0.1', 64254)
+2024-06-25 20:41:43,491 - Received query: hello from ('127.0.0.1', 64255)
+2024-06-25 20:41:43,541 - Execution time: 0.049740 seconds
+2024-06-25 20:41:43,541 - Search result sent to ('127.0.0.1', 64255)
+2024-06-25 20:41:43,542 - Received query: hello from ('127.0.0.1', 64256)
+2024-06-25 20:41:43,596 - Execution time: 0.053609 seconds
+2024-06-25 20:41:43,597 - Search result sent to ('127.0.0.1', 64256)
+2024-06-25 20:41:43,597 - Received query: hello from ('127.0.0.1', 64257)
+2024-06-25 20:41:43,647 - Execution time: 0.050683 seconds
+2024-06-25 20:41:43,647 - Search result sent to ('127.0.0.1', 64257)
+2024-06-25 20:41:43,648 - Received query: hello from ('127.0.0.1', 64258)
+2024-06-25 20:41:43,699 - Execution time: 0.050598 seconds
+2024-06-25 20:41:43,699 - Search result sent to ('127.0.0.1', 64258)
+2024-06-25 20:41:43,700 - Received query: hello from ('127.0.0.1', 64259)
+2024-06-25 20:41:43,749 - Execution time: 0.049405 seconds
+2024-06-25 20:41:43,749 - Search result sent to ('127.0.0.1', 64259)
+2024-06-25 20:41:43,750 - Received query: hello from ('127.0.0.1', 64260)
+2024-06-25 20:41:43,803 - Execution time: 0.052185 seconds
+2024-06-25 20:41:43,803 - Search result sent to ('127.0.0.1', 64260)
+2024-06-25 20:41:43,804 - Received query: hello from ('127.0.0.1', 64261)
+2024-06-25 20:41:43,863 - Execution time: 0.058997 seconds
+2024-06-25 20:41:43,863 - Search result sent to ('127.0.0.1', 64261)
+2024-06-25 20:41:43,864 - Received query: hello from ('127.0.0.1', 64264)
+2024-06-25 20:41:43,915 - Execution time: 0.050952 seconds
+2024-06-25 20:41:43,915 - Search result sent to ('127.0.0.1', 64264)
+2024-06-25 20:41:43,915 - Received query: hello from ('127.0.0.1', 64265)
+2024-06-25 20:41:43,967 - Execution time: 0.051999 seconds
+2024-06-25 20:41:43,967 - Search result sent to ('127.0.0.1', 64265)
+2024-06-25 20:41:43,968 - Received query: hello from ('127.0.0.1', 64266)
+2024-06-25 20:41:44,022 - Execution time: 0.054222 seconds
+2024-06-25 20:41:44,022 - Search result sent to ('127.0.0.1', 64266)
+2024-06-25 20:41:44,023 - Received query: hello from ('127.0.0.1', 64267)
+2024-06-25 20:41:44,081 - Execution time: 0.059003 seconds
+2024-06-25 20:41:44,082 - Search result sent to ('127.0.0.1', 64267)
+2024-06-25 20:41:44,082 - Received query: hello from ('127.0.0.1', 64268)
+2024-06-25 20:41:44,141 - Execution time: 0.058998 seconds
+2024-06-25 20:41:44,141 - Search result sent to ('127.0.0.1', 64268)
+2024-06-25 20:41:44,141 - Received query: hello from ('127.0.0.1', 64269)
+2024-06-25 20:41:44,192 - Execution time: 0.051597 seconds
+2024-06-25 20:41:44,193 - Search result sent to ('127.0.0.1', 64269)
+2024-06-25 20:41:44,193 - Received query: hello from ('127.0.0.1', 64270)
+2024-06-25 20:41:44,244 - Execution time: 0.051014 seconds
+2024-06-25 20:41:44,244 - Search result sent to ('127.0.0.1', 64270)
+2024-06-25 20:41:44,244 - Received query: hello from ('127.0.0.1', 64271)
+2024-06-25 20:41:44,295 - Execution time: 0.050997 seconds
+2024-06-25 20:41:44,295 - Search result sent to ('127.0.0.1', 64271)
+2024-06-25 20:41:44,296 - Received query: hello from ('127.0.0.1', 64272)
+2024-06-25 20:41:44,346 - Execution time: 0.050035 seconds
+2024-06-25 20:41:44,346 - Search result sent to ('127.0.0.1', 64272)
+2024-06-25 20:41:44,347 - Received query: hello from ('127.0.0.1', 64273)
+2024-06-25 20:41:44,400 - Execution time: 0.052665 seconds
+2024-06-25 20:41:44,400 - Search result sent to ('127.0.0.1', 64273)
+2024-06-25 20:41:44,400 - Received query: hello from ('127.0.0.1', 64274)
+2024-06-25 20:41:44,456 - Execution time: 0.055978 seconds
+2024-06-25 20:41:44,456 - Search result sent to ('127.0.0.1', 64274)
+2024-06-25 20:41:44,457 - Received query: hello from ('127.0.0.1', 64275)
+2024-06-25 20:41:44,513 - Execution time: 0.055636 seconds
+2024-06-25 20:41:44,513 - Search result sent to ('127.0.0.1', 64275)
+2024-06-25 20:41:44,514 - Received query: hello from ('127.0.0.1', 64276)
+2024-06-25 20:41:44,566 - Execution time: 0.052001 seconds
+2024-06-25 20:41:44,566 - Search result sent to ('127.0.0.1', 64276)
+2024-06-25 20:41:44,567 - Received query: hello from ('127.0.0.1', 64277)
+2024-06-25 20:41:44,618 - Execution time: 0.051425 seconds
+2024-06-25 20:41:44,619 - Search result sent to ('127.0.0.1', 64277)
+2024-06-25 20:41:44,619 - Received query: hello from ('127.0.0.1', 64278)
+2024-06-25 20:41:44,673 - Execution time: 0.054065 seconds
+2024-06-25 20:41:44,673 - Search result sent to ('127.0.0.1', 64278)
+2024-06-25 20:41:44,673 - Received query: hello from ('127.0.0.1', 64279)
+2024-06-25 20:41:44,726 - Execution time: 0.052582 seconds
+2024-06-25 20:41:44,726 - Search result sent to ('127.0.0.1', 64279)
+2024-06-25 20:41:44,727 - Received query: hello from ('127.0.0.1', 64280)
+2024-06-25 20:41:44,777 - Execution time: 0.050000 seconds
+2024-06-25 20:41:44,777 - Search result sent to ('127.0.0.1', 64280)
+2024-06-25 20:41:44,778 - Received query: hello from ('127.0.0.1', 64281)
+2024-06-25 20:41:44,832 - Execution time: 0.053667 seconds
+2024-06-25 20:41:44,832 - Search result sent to ('127.0.0.1', 64281)
+2024-06-25 20:41:44,833 - Received query: hello from ('127.0.0.1', 64282)
+2024-06-25 20:41:44,886 - Execution time: 0.053068 seconds
+2024-06-25 20:41:44,887 - Search result sent to ('127.0.0.1', 64282)
+2024-06-25 20:41:44,887 - Received query: hello from ('127.0.0.1', 64283)
+2024-06-25 20:41:44,938 - Execution time: 0.051029 seconds
+2024-06-25 20:41:44,938 - Search result sent to ('127.0.0.1', 64283)
+2024-06-25 20:41:44,939 - Received query: hello from ('127.0.0.1', 64284)
+2024-06-25 20:41:44,990 - Execution time: 0.051005 seconds
+2024-06-25 20:41:44,990 - Search result sent to ('127.0.0.1', 64284)
+2024-06-25 20:41:44,990 - Received query: hello from ('127.0.0.1', 64285)
+2024-06-25 20:41:45,049 - Execution time: 0.059154 seconds
+2024-06-25 20:41:45,049 - Search result sent to ('127.0.0.1', 64285)
+2024-06-25 20:41:45,050 - Received query: hello from ('127.0.0.1', 64286)
+2024-06-25 20:41:45,101 - Execution time: 0.050275 seconds
+2024-06-25 20:41:45,101 - Search result sent to ('127.0.0.1', 64286)
+2024-06-25 20:41:45,102 - Received query: hello from ('127.0.0.1', 64287)
+2024-06-25 20:41:45,152 - Execution time: 0.050000 seconds
+2024-06-25 20:41:45,152 - Search result sent to ('127.0.0.1', 64287)
+2024-06-25 20:41:45,153 - Received query: hello from ('127.0.0.1', 64288)
+2024-06-25 20:41:45,203 - Execution time: 0.050000 seconds
+2024-06-25 20:41:45,203 - Search result sent to ('127.0.0.1', 64288)
+2024-06-25 20:41:45,203 - Received query: hello from ('127.0.0.1', 64289)
+2024-06-25 20:41:45,253 - Execution time: 0.049641 seconds
+2024-06-25 20:41:45,253 - Search result sent to ('127.0.0.1', 64289)
+2024-06-25 20:41:45,254 - Received query: hello from ('127.0.0.1', 64290)
+2024-06-25 20:41:45,307 - Execution time: 0.053037 seconds
+2024-06-25 20:41:45,307 - Search result sent to ('127.0.0.1', 64290)
+2024-06-25 20:41:45,308 - Received query: hello from ('127.0.0.1', 64291)
+2024-06-25 20:41:45,358 - Execution time: 0.050067 seconds
+2024-06-25 20:41:45,358 - Search result sent to ('127.0.0.1', 64291)
+2024-06-25 20:41:45,359 - Received query: hello from ('127.0.0.1', 64292)
+2024-06-25 20:41:45,409 - Execution time: 0.050000 seconds
+2024-06-25 20:41:45,409 - Search result sent to ('127.0.0.1', 64292)
+2024-06-25 20:41:45,410 - Received query: hello from ('127.0.0.1', 64293)
+2024-06-25 20:41:45,461 - Execution time: 0.051327 seconds
+2024-06-25 20:41:45,461 - Search result sent to ('127.0.0.1', 64293)
+2024-06-25 20:41:45,462 - Received query: hello from ('127.0.0.1', 64294)
+2024-06-25 20:41:45,516 - Execution time: 0.054027 seconds
+2024-06-25 20:41:45,516 - Search result sent to ('127.0.0.1', 64294)
+2024-06-25 20:41:45,517 - Received query: hello from ('127.0.0.1', 64295)
+2024-06-25 20:41:45,570 - Execution time: 0.053000 seconds
+2024-06-25 20:41:45,570 - Search result sent to ('127.0.0.1', 64295)
+2024-06-25 20:41:45,571 - Received query: hello from ('127.0.0.1', 64296)
+2024-06-25 20:41:45,622 - Execution time: 0.050539 seconds
+2024-06-25 20:41:45,622 - Search result sent to ('127.0.0.1', 64296)
+2024-06-25 20:41:45,622 - Received query: hello from ('127.0.0.1', 64297)
+2024-06-25 20:41:45,672 - Execution time: 0.050524 seconds
+2024-06-25 20:41:45,672 - Search result sent to ('127.0.0.1', 64297)
+2024-06-25 20:41:45,673 - Received query: hello from ('127.0.0.1', 64298)
+2024-06-25 20:41:45,728 - Execution time: 0.055062 seconds
+2024-06-25 20:41:45,728 - Search result sent to ('127.0.0.1', 64298)
+2024-06-25 20:41:45,729 - Received query: hello from ('127.0.0.1', 64299)
+2024-06-25 20:41:45,780 - Execution time: 0.050998 seconds
+2024-06-25 20:41:45,780 - Search result sent to ('127.0.0.1', 64299)
+2024-06-25 20:41:45,781 - Received query: hello from ('127.0.0.1', 64300)
+2024-06-25 20:41:45,832 - Execution time: 0.050418 seconds
+2024-06-25 20:41:45,832 - Search result sent to ('127.0.0.1', 64300)
+2024-06-25 20:41:45,833 - Received query: hello from ('127.0.0.1', 64301)
+2024-06-25 20:41:45,885 - Execution time: 0.052030 seconds
+2024-06-25 20:41:45,885 - Search result sent to ('127.0.0.1', 64301)
+2024-06-25 20:41:45,886 - Received query: hello from ('127.0.0.1', 64304)
+2024-06-25 20:41:45,936 - Execution time: 0.051490 seconds
+2024-06-25 20:41:45,936 - Search result sent to ('127.0.0.1', 64304)
+2024-06-25 20:41:45,937 - Received query: hello from ('127.0.0.1', 64305)
+2024-06-25 20:41:45,987 - Execution time: 0.051030 seconds
+2024-06-25 20:41:45,987 - Search result sent to ('127.0.0.1', 64305)
+2024-06-25 20:41:45,988 - Received query: hello from ('127.0.0.1', 64306)
+2024-06-25 20:41:46,039 - Execution time: 0.050675 seconds
+2024-06-25 20:41:46,039 - Search result sent to ('127.0.0.1', 64306)
+2024-06-25 20:41:46,040 - Received query: hello from ('127.0.0.1', 64307)
+2024-06-25 20:41:46,093 - Execution time: 0.053002 seconds
+2024-06-25 20:41:46,093 - Search result sent to ('127.0.0.1', 64307)
+2024-06-25 20:41:46,094 - Received query: hello from ('127.0.0.1', 64308)
+2024-06-25 20:41:46,148 - Execution time: 0.054024 seconds
+2024-06-25 20:41:46,148 - Search result sent to ('127.0.0.1', 64308)
+2024-06-25 20:41:46,149 - Received query: hello from ('127.0.0.1', 64309)
+2024-06-25 20:41:46,199 - Execution time: 0.049960 seconds
+2024-06-25 20:41:46,199 - Search result sent to ('127.0.0.1', 64309)
+2024-06-25 20:42:15,116 - Received query: hello from ('127.0.0.1', 64410)
+2024-06-25 20:42:15,169 - Execution time: 0.053541 seconds
+2024-06-25 20:42:15,170 - Search result sent to ('127.0.0.1', 64410)
+2024-06-25 20:42:15,170 - Received query: hello from ('127.0.0.1', 64411)
+2024-06-25 20:42:15,220 - Execution time: 0.049999 seconds
+2024-06-25 20:42:15,220 - Search result sent to ('127.0.0.1', 64411)
+2024-06-25 20:42:15,221 - Received query: hello from ('127.0.0.1', 64412)
+2024-06-25 20:42:15,273 - Execution time: 0.051675 seconds
+2024-06-25 20:42:15,273 - Search result sent to ('127.0.0.1', 64412)
+2024-06-25 20:42:15,274 - Received query: hello from ('127.0.0.1', 64413)
+2024-06-25 20:42:15,325 - Execution time: 0.050999 seconds
+2024-06-25 20:42:15,325 - Search result sent to ('127.0.0.1', 64413)
+2024-06-25 20:42:15,326 - Received query: hello from ('127.0.0.1', 64414)
+2024-06-25 20:42:15,380 - Execution time: 0.053800 seconds
+2024-06-25 20:42:15,380 - Search result sent to ('127.0.0.1', 64414)
+2024-06-25 20:42:15,381 - Received query: hello from ('127.0.0.1', 64415)
+2024-06-25 20:42:15,431 - Execution time: 0.049999 seconds
+2024-06-25 20:42:15,432 - Search result sent to ('127.0.0.1', 64415)
+2024-06-25 20:42:15,432 - Received query: hello from ('127.0.0.1', 64416)
+2024-06-25 20:42:15,487 - Execution time: 0.055599 seconds
+2024-06-25 20:42:15,487 - Search result sent to ('127.0.0.1', 64416)
+2024-06-25 20:42:15,488 - Received query: hello from ('127.0.0.1', 64417)
+2024-06-25 20:42:15,538 - Execution time: 0.050005 seconds
+2024-06-25 20:42:15,538 - Search result sent to ('127.0.0.1', 64417)
+2024-06-25 20:42:15,539 - Received query: hello from ('127.0.0.1', 64418)
+2024-06-25 20:42:15,590 - Execution time: 0.050999 seconds
+2024-06-25 20:42:15,590 - Search result sent to ('127.0.0.1', 64418)
+2024-06-25 20:42:15,591 - Received query: hello from ('127.0.0.1', 64419)
+2024-06-25 20:42:15,642 - Execution time: 0.051182 seconds
+2024-06-25 20:42:15,643 - Search result sent to ('127.0.0.1', 64419)
+2024-06-25 20:42:15,643 - Received query: hello from ('127.0.0.1', 64420)
+2024-06-25 20:42:15,697 - Execution time: 0.053581 seconds
+2024-06-25 20:42:15,697 - Search result sent to ('127.0.0.1', 64420)
+2024-06-25 20:42:15,698 - Received query: hello from ('127.0.0.1', 64421)
+2024-06-25 20:42:15,753 - Execution time: 0.054694 seconds
+2024-06-25 20:42:15,753 - Search result sent to ('127.0.0.1', 64421)
+2024-06-25 20:42:15,753 - Received query: hello from ('127.0.0.1', 64422)
+2024-06-25 20:42:15,807 - Execution time: 0.053999 seconds
+2024-06-25 20:42:15,807 - Search result sent to ('127.0.0.1', 64422)
+2024-06-25 20:42:15,808 - Received query: hello from ('127.0.0.1', 64423)
+2024-06-25 20:42:15,862 - Execution time: 0.053502 seconds
+2024-06-25 20:42:15,862 - Search result sent to ('127.0.0.1', 64423)
+2024-06-25 20:42:15,862 - Received query: hello from ('127.0.0.1', 64426)
+2024-06-25 20:42:15,917 - Execution time: 0.054709 seconds
+2024-06-25 20:42:15,917 - Search result sent to ('127.0.0.1', 64426)
+2024-06-25 20:42:15,918 - Received query: hello from ('127.0.0.1', 64427)
+2024-06-25 20:42:15,970 - Execution time: 0.051997 seconds
+2024-06-25 20:42:15,970 - Search result sent to ('127.0.0.1', 64427)
+2024-06-25 20:42:15,970 - Received query: hello from ('127.0.0.1', 64428)
+2024-06-25 20:42:16,022 - Execution time: 0.052002 seconds
+2024-06-25 20:42:16,022 - Search result sent to ('127.0.0.1', 64428)
+2024-06-25 20:42:16,024 - Received query: hello from ('127.0.0.1', 64429)
+2024-06-25 20:42:16,077 - Execution time: 0.053576 seconds
+2024-06-25 20:42:16,077 - Search result sent to ('127.0.0.1', 64429)
+2024-06-25 20:42:16,078 - Received query: hello from ('127.0.0.1', 64430)
+2024-06-25 20:42:16,132 - Execution time: 0.054747 seconds
+2024-06-25 20:42:16,132 - Search result sent to ('127.0.0.1', 64430)
+2024-06-25 20:42:16,133 - Received query: hello from ('127.0.0.1', 64431)
+2024-06-25 20:42:16,186 - Execution time: 0.053300 seconds
+2024-06-25 20:42:16,187 - Search result sent to ('127.0.0.1', 64431)
+2024-06-25 20:42:16,187 - Received query: hello from ('127.0.0.1', 64432)
+2024-06-25 20:42:16,250 - Execution time: 0.063125 seconds
+2024-06-25 20:42:16,251 - Search result sent to ('127.0.0.1', 64432)
+2024-06-25 20:42:16,251 - Received query: hello from ('127.0.0.1', 64433)
+2024-06-25 20:42:16,302 - Execution time: 0.050617 seconds
+2024-06-25 20:42:16,303 - Search result sent to ('127.0.0.1', 64433)
+2024-06-25 20:42:16,303 - Received query: hello from ('127.0.0.1', 64434)
+2024-06-25 20:42:16,356 - Execution time: 0.052718 seconds
+2024-06-25 20:42:16,356 - Search result sent to ('127.0.0.1', 64434)
+2024-06-25 20:42:16,357 - Received query: hello from ('127.0.0.1', 64435)
+2024-06-25 20:42:16,407 - Execution time: 0.049999 seconds
+2024-06-25 20:42:16,407 - Search result sent to ('127.0.0.1', 64435)
+2024-06-25 20:42:16,408 - Received query: hello from ('127.0.0.1', 64436)
+2024-06-25 20:42:16,459 - Execution time: 0.051011 seconds
+2024-06-25 20:42:16,459 - Search result sent to ('127.0.0.1', 64436)
+2024-06-25 20:42:16,459 - Received query: hello from ('127.0.0.1', 64437)
+2024-06-25 20:42:16,511 - Execution time: 0.052593 seconds
+2024-06-25 20:42:16,511 - Search result sent to ('127.0.0.1', 64437)
+2024-06-25 20:42:16,511 - Received query: hello from ('127.0.0.1', 64438)
+2024-06-25 20:42:16,564 - Execution time: 0.051592 seconds
+2024-06-25 20:42:16,564 - Search result sent to ('127.0.0.1', 64438)
+2024-06-25 20:42:16,564 - Received query: hello from ('127.0.0.1', 64439)
+2024-06-25 20:42:16,616 - Execution time: 0.051998 seconds
+2024-06-25 20:42:16,616 - Search result sent to ('127.0.0.1', 64439)
+2024-06-25 20:42:16,617 - Received query: hello from ('127.0.0.1', 64440)
+2024-06-25 20:42:16,669 - Execution time: 0.051572 seconds
+2024-06-25 20:42:16,669 - Search result sent to ('127.0.0.1', 64440)
+2024-06-25 20:42:16,670 - Received query: hello from ('127.0.0.1', 64441)
+2024-06-25 20:42:16,721 - Execution time: 0.050173 seconds
+2024-06-25 20:42:16,721 - Search result sent to ('127.0.0.1', 64441)
+2024-06-25 20:42:16,721 - Received query: hello from ('127.0.0.1', 64442)
+2024-06-25 20:42:16,774 - Execution time: 0.052999 seconds
+2024-06-25 20:42:16,774 - Search result sent to ('127.0.0.1', 64442)
+2024-06-25 20:42:16,774 - Received query: hello from ('127.0.0.1', 64443)
+2024-06-25 20:42:16,826 - Execution time: 0.051776 seconds
+2024-06-25 20:42:16,826 - Search result sent to ('127.0.0.1', 64443)
+2024-06-25 20:42:16,827 - Received query: hello from ('127.0.0.1', 64444)
+2024-06-25 20:42:16,878 - Execution time: 0.052524 seconds
+2024-06-25 20:42:16,878 - Search result sent to ('127.0.0.1', 64444)
+2024-06-25 20:42:16,879 - Received query: hello from ('127.0.0.1', 64447)
+2024-06-25 20:42:16,930 - Execution time: 0.050309 seconds
+2024-06-25 20:42:16,930 - Search result sent to ('127.0.0.1', 64447)
+2024-06-25 20:42:16,931 - Received query: hello from ('127.0.0.1', 64448)
+2024-06-25 20:42:16,981 - Execution time: 0.050238 seconds
+2024-06-25 20:42:16,981 - Search result sent to ('127.0.0.1', 64448)
+2024-06-25 20:42:16,982 - Received query: hello from ('127.0.0.1', 64449)
+2024-06-25 20:42:17,031 - Execution time: 0.049535 seconds
+2024-06-25 20:42:17,031 - Search result sent to ('127.0.0.1', 64449)
+2024-06-25 20:42:17,032 - Received query: hello from ('127.0.0.1', 64450)
+2024-06-25 20:42:17,083 - Execution time: 0.050616 seconds
+2024-06-25 20:42:17,083 - Search result sent to ('127.0.0.1', 64450)
+2024-06-25 20:42:17,084 - Received query: hello from ('127.0.0.1', 64451)
+2024-06-25 20:42:17,135 - Execution time: 0.050961 seconds
+2024-06-25 20:42:17,136 - Search result sent to ('127.0.0.1', 64451)
+2024-06-25 20:42:17,136 - Received query: hello from ('127.0.0.1', 64452)
+2024-06-25 20:42:17,188 - Execution time: 0.052006 seconds
+2024-06-25 20:42:17,188 - Search result sent to ('127.0.0.1', 64452)
+2024-06-25 20:42:17,189 - Received query: hello from ('127.0.0.1', 64453)
+2024-06-25 20:42:17,240 - Execution time: 0.051030 seconds
+2024-06-25 20:42:17,240 - Search result sent to ('127.0.0.1', 64453)
+2024-06-25 20:42:17,240 - Received query: hello from ('127.0.0.1', 64454)
+2024-06-25 20:42:17,291 - Execution time: 0.051008 seconds
+2024-06-25 20:42:17,291 - Search result sent to ('127.0.0.1', 64454)
+2024-06-25 20:42:17,292 - Received query: hello from ('127.0.0.1', 64455)
+2024-06-25 20:42:17,343 - Execution time: 0.051068 seconds
+2024-06-25 20:42:17,343 - Search result sent to ('127.0.0.1', 64455)
+2024-06-25 20:42:17,344 - Received query: hello from ('127.0.0.1', 64456)
+2024-06-25 20:42:17,394 - Execution time: 0.049971 seconds
+2024-06-25 20:42:17,394 - Search result sent to ('127.0.0.1', 64456)
+2024-06-25 20:42:17,395 - Received query: hello from ('127.0.0.1', 64457)
+2024-06-25 20:42:17,447 - Execution time: 0.051605 seconds
+2024-06-25 20:42:17,447 - Search result sent to ('127.0.0.1', 64457)
+2024-06-25 20:42:17,448 - Received query: hello from ('127.0.0.1', 64458)
+2024-06-25 20:42:17,498 - Execution time: 0.048647 seconds
+2024-06-25 20:42:17,498 - Search result sent to ('127.0.0.1', 64458)
+2024-06-25 20:42:17,498 - Received query: hello from ('127.0.0.1', 64459)
+2024-06-25 20:42:17,552 - Execution time: 0.053998 seconds
+2024-06-25 20:42:17,552 - Search result sent to ('127.0.0.1', 64459)
+2024-06-25 20:42:17,553 - Received query: hello from ('127.0.0.1', 64460)
+2024-06-25 20:42:17,605 - Execution time: 0.051018 seconds
+2024-06-25 20:42:17,605 - Search result sent to ('127.0.0.1', 64460)
+2024-06-25 20:42:17,605 - Received query: hello from ('127.0.0.1', 64461)
+2024-06-25 20:42:17,656 - Execution time: 0.051030 seconds
+2024-06-25 20:42:17,656 - Search result sent to ('127.0.0.1', 64461)
+2024-06-25 20:42:17,657 - Received query: hello from ('127.0.0.1', 64462)
+2024-06-25 20:42:17,706 - Execution time: 0.049634 seconds
+2024-06-25 20:42:17,707 - Search result sent to ('127.0.0.1', 64462)
+2024-06-25 20:42:17,707 - Received query: hello from ('127.0.0.1', 64463)
+2024-06-25 20:42:17,757 - Execution time: 0.049999 seconds
+2024-06-25 20:42:17,757 - Search result sent to ('127.0.0.1', 64463)
+2024-06-25 20:42:17,758 - Received query: hello from ('127.0.0.1', 64464)
+2024-06-25 20:42:17,810 - Execution time: 0.051446 seconds
+2024-06-25 20:42:17,810 - Search result sent to ('127.0.0.1', 64464)
+2024-06-25 20:42:17,810 - Received query: hello from ('127.0.0.1', 64465)
+2024-06-25 20:42:17,860 - Execution time: 0.050135 seconds
+2024-06-25 20:42:17,860 - Search result sent to ('127.0.0.1', 64465)
+2024-06-25 20:42:17,861 - Received query: hello from ('127.0.0.1', 64466)
+2024-06-25 20:42:17,913 - Execution time: 0.051517 seconds
+2024-06-25 20:42:17,913 - Search result sent to ('127.0.0.1', 64466)
+2024-06-25 20:42:17,914 - Received query: hello from ('127.0.0.1', 64467)
+2024-06-25 20:42:17,967 - Execution time: 0.052776 seconds
+2024-06-25 20:42:17,967 - Search result sent to ('127.0.0.1', 64467)
+2024-06-25 20:42:17,967 - Received query: hello from ('127.0.0.1', 64468)
+2024-06-25 20:42:18,017 - Execution time: 0.050773 seconds
+2024-06-25 20:42:18,017 - Search result sent to ('127.0.0.1', 64468)
+2024-06-25 20:42:18,018 - Received query: hello from ('127.0.0.1', 64469)
+2024-06-25 20:42:18,069 - Execution time: 0.051042 seconds
+2024-06-25 20:42:18,069 - Search result sent to ('127.0.0.1', 64469)
+2024-06-25 20:42:18,070 - Received query: hello from ('127.0.0.1', 64470)
+2024-06-25 20:42:18,124 - Execution time: 0.053593 seconds
+2024-06-25 20:42:18,124 - Search result sent to ('127.0.0.1', 64470)
+2024-06-25 20:42:18,125 - Received query: hello from ('127.0.0.1', 64471)
+2024-06-25 20:42:18,176 - Execution time: 0.051017 seconds
+2024-06-25 20:42:18,176 - Search result sent to ('127.0.0.1', 64471)
+2024-06-25 20:42:18,177 - Received query: hello from ('127.0.0.1', 64472)
+2024-06-25 20:42:18,227 - Execution time: 0.049998 seconds
+2024-06-25 20:42:18,227 - Search result sent to ('127.0.0.1', 64472)
+2024-06-25 20:42:18,229 - Received query: hello from ('127.0.0.1', 64473)
+2024-06-25 20:42:18,282 - Execution time: 0.053277 seconds
+2024-06-25 20:42:18,282 - Search result sent to ('127.0.0.1', 64473)
+2024-06-25 20:42:18,283 - Received query: hello from ('127.0.0.1', 64474)
+2024-06-25 20:42:18,334 - Execution time: 0.050668 seconds
+2024-06-25 20:42:18,334 - Search result sent to ('127.0.0.1', 64474)
+2024-06-25 20:42:18,335 - Received query: hello from ('127.0.0.1', 64475)
+2024-06-25 20:42:18,385 - Execution time: 0.050693 seconds
+2024-06-25 20:42:18,385 - Search result sent to ('127.0.0.1', 64475)
+2024-06-25 20:42:18,386 - Received query: hello from ('127.0.0.1', 64476)
+2024-06-25 20:42:18,440 - Execution time: 0.054007 seconds
+2024-06-25 20:42:18,440 - Search result sent to ('127.0.0.1', 64476)
+2024-06-25 20:42:18,440 - Received query: hello from ('127.0.0.1', 64477)
+2024-06-25 20:42:18,492 - Execution time: 0.052028 seconds
+2024-06-25 20:42:18,493 - Search result sent to ('127.0.0.1', 64477)
+2024-06-25 20:42:18,493 - Received query: hello from ('127.0.0.1', 64478)
+2024-06-25 20:42:18,546 - Execution time: 0.053113 seconds
+2024-06-25 20:42:18,546 - Search result sent to ('127.0.0.1', 64478)
+2024-06-25 20:42:18,547 - Received query: hello from ('127.0.0.1', 64479)
+2024-06-25 20:42:18,599 - Execution time: 0.052001 seconds
+2024-06-25 20:42:18,599 - Search result sent to ('127.0.0.1', 64479)
+2024-06-25 20:42:18,601 - Received query: hello from ('127.0.0.1', 64480)
+2024-06-25 20:42:18,652 - Execution time: 0.051036 seconds
+2024-06-25 20:42:18,652 - Search result sent to ('127.0.0.1', 64480)
+2024-06-25 20:42:18,653 - Received query: hello from ('127.0.0.1', 64481)
+2024-06-25 20:42:18,705 - Execution time: 0.052189 seconds
+2024-06-25 20:42:18,705 - Search result sent to ('127.0.0.1', 64481)
+2024-06-25 20:42:18,706 - Received query: hello from ('127.0.0.1', 64482)
+2024-06-25 20:42:18,758 - Execution time: 0.052013 seconds
+2024-06-25 20:42:18,758 - Search result sent to ('127.0.0.1', 64482)
+2024-06-25 20:42:18,759 - Received query: hello from ('127.0.0.1', 64483)
+2024-06-25 20:42:18,819 - Execution time: 0.059998 seconds
+2024-06-25 20:42:18,819 - Search result sent to ('127.0.0.1', 64483)
+2024-06-25 20:42:18,820 - Received query: hello from ('127.0.0.1', 64486)
+2024-06-25 20:42:18,871 - Execution time: 0.051540 seconds
+2024-06-25 20:42:18,871 - Search result sent to ('127.0.0.1', 64486)
+2024-06-25 20:42:18,871 - Received query: hello from ('127.0.0.1', 64489)
+2024-06-25 20:42:18,923 - Execution time: 0.051649 seconds
+2024-06-25 20:42:18,923 - Search result sent to ('127.0.0.1', 64489)
+2024-06-25 20:42:18,923 - Received query: hello from ('127.0.0.1', 64490)
+2024-06-25 20:42:18,976 - Execution time: 0.053001 seconds
+2024-06-25 20:42:18,976 - Search result sent to ('127.0.0.1', 64490)
+2024-06-25 20:42:18,977 - Received query: hello from ('127.0.0.1', 64491)
+2024-06-25 20:42:19,028 - Execution time: 0.051318 seconds
+2024-06-25 20:42:19,029 - Search result sent to ('127.0.0.1', 64491)
+2024-06-25 20:42:19,029 - Received query: hello from ('127.0.0.1', 64492)
+2024-06-25 20:42:19,080 - Execution time: 0.051028 seconds
+2024-06-25 20:42:19,080 - Search result sent to ('127.0.0.1', 64492)
+2024-06-25 20:42:19,081 - Received query: hello from ('127.0.0.1', 64493)
+2024-06-25 20:42:19,133 - Execution time: 0.051553 seconds
+2024-06-25 20:42:19,133 - Search result sent to ('127.0.0.1', 64493)
+2024-06-25 20:42:19,133 - Received query: hello from ('127.0.0.1', 64494)
+2024-06-25 20:42:19,195 - Execution time: 0.062001 seconds
+2024-06-25 20:42:19,195 - Search result sent to ('127.0.0.1', 64494)
+2024-06-25 20:42:19,196 - Received query: hello from ('127.0.0.1', 64495)
+2024-06-25 20:42:19,247 - Execution time: 0.052030 seconds
+2024-06-25 20:42:19,247 - Search result sent to ('127.0.0.1', 64495)
+2024-06-25 20:42:19,248 - Received query: hello from ('127.0.0.1', 64496)
+2024-06-25 20:42:19,301 - Execution time: 0.052998 seconds
+2024-06-25 20:42:19,301 - Search result sent to ('127.0.0.1', 64496)
+2024-06-25 20:42:19,302 - Received query: hello from ('127.0.0.1', 64497)
+2024-06-25 20:42:19,354 - Execution time: 0.052098 seconds
+2024-06-25 20:42:19,354 - Search result sent to ('127.0.0.1', 64497)
+2024-06-25 20:42:19,354 - Received query: hello from ('127.0.0.1', 64498)
+2024-06-25 20:42:19,406 - Execution time: 0.051632 seconds
+2024-06-25 20:42:19,406 - Search result sent to ('127.0.0.1', 64498)
+2024-06-25 20:42:19,407 - Received query: hello from ('127.0.0.1', 64499)
+2024-06-25 20:42:19,458 - Execution time: 0.050955 seconds
+2024-06-25 20:42:19,458 - Search result sent to ('127.0.0.1', 64499)
+2024-06-25 20:42:19,458 - Received query: hello from ('127.0.0.1', 64500)
+2024-06-25 20:42:19,510 - Execution time: 0.052256 seconds
+2024-06-25 20:42:19,510 - Search result sent to ('127.0.0.1', 64500)
+2024-06-25 20:42:19,511 - Received query: hello from ('127.0.0.1', 64501)
+2024-06-25 20:42:19,564 - Execution time: 0.052620 seconds
+2024-06-25 20:42:19,564 - Search result sent to ('127.0.0.1', 64501)
+2024-06-25 20:42:19,565 - Received query: hello from ('127.0.0.1', 64502)
+2024-06-25 20:42:19,615 - Execution time: 0.049708 seconds
+2024-06-25 20:42:19,615 - Search result sent to ('127.0.0.1', 64502)
+2024-06-25 20:42:19,615 - Received query: hello from ('127.0.0.1', 64503)
+2024-06-25 20:42:19,668 - Execution time: 0.053001 seconds
+2024-06-25 20:42:19,668 - Search result sent to ('127.0.0.1', 64503)
+2024-06-25 20:42:19,669 - Received query: hello from ('127.0.0.1', 64504)
+2024-06-25 20:42:19,722 - Execution time: 0.054010 seconds
+2024-06-25 20:42:19,723 - Search result sent to ('127.0.0.1', 64504)
+2024-06-25 20:42:19,723 - Received query: hello from ('127.0.0.1', 64505)
+2024-06-25 20:42:19,775 - Execution time: 0.051997 seconds
+2024-06-25 20:42:19,775 - Search result sent to ('127.0.0.1', 64505)
+2024-06-25 20:42:19,776 - Received query: hello from ('127.0.0.1', 64506)
+2024-06-25 20:42:19,827 - Execution time: 0.050550 seconds
+2024-06-25 20:42:19,827 - Search result sent to ('127.0.0.1', 64506)
+2024-06-25 20:42:19,828 - Received query: hello from ('127.0.0.1', 64509)
+2024-06-25 20:42:19,879 - Execution time: 0.051031 seconds
+2024-06-25 20:42:19,879 - Search result sent to ('127.0.0.1', 64509)
+2024-06-25 20:42:19,880 - Received query: hello from ('127.0.0.1', 64512)
+2024-06-25 20:42:19,931 - Execution time: 0.051000 seconds
+2024-06-25 20:42:19,931 - Search result sent to ('127.0.0.1', 64512)
+2024-06-25 20:42:19,932 - Received query: hello from ('127.0.0.1', 64513)
+2024-06-25 20:42:19,989 - Execution time: 0.056654 seconds
+2024-06-25 20:42:19,989 - Search result sent to ('127.0.0.1', 64513)
+2024-06-25 20:42:19,990 - Received query: hello from ('127.0.0.1', 64514)
+2024-06-25 20:42:20,042 - Execution time: 0.052285 seconds
+2024-06-25 20:42:20,042 - Search result sent to ('127.0.0.1', 64514)
+2024-06-25 20:42:20,043 - Received query: hello from ('127.0.0.1', 64515)
+2024-06-25 20:42:20,094 - Execution time: 0.049972 seconds
+2024-06-25 20:42:20,094 - Search result sent to ('127.0.0.1', 64515)
+2024-06-25 20:42:20,094 - Received query: hello from ('127.0.0.1', 64516)
+2024-06-25 20:42:20,144 - Execution time: 0.050029 seconds
+2024-06-25 20:42:20,144 - Search result sent to ('127.0.0.1', 64516)
+2024-06-25 20:42:20,145 - Received query: hello from ('127.0.0.1', 64517)
+2024-06-25 20:42:20,196 - Execution time: 0.050572 seconds
+2024-06-25 20:42:20,196 - Search result sent to ('127.0.0.1', 64517)
+2024-06-25 20:42:20,197 - Received query: hello from ('127.0.0.1', 64518)
+2024-06-25 20:42:20,248 - Execution time: 0.051012 seconds
+2024-06-25 20:42:20,248 - Search result sent to ('127.0.0.1', 64518)
+2024-06-25 20:42:20,249 - Received query: hello from ('127.0.0.1', 64519)
+2024-06-25 20:42:20,298 - Execution time: 0.049029 seconds
+2024-06-25 20:42:20,298 - Search result sent to ('127.0.0.1', 64519)
+2024-06-25 20:42:20,299 - Received query: hello from ('127.0.0.1', 64520)
+2024-06-25 20:42:20,349 - Execution time: 0.050028 seconds
+2024-06-25 20:42:20,349 - Search result sent to ('127.0.0.1', 64520)
+2024-06-25 20:42:20,350 - Received query: hello from ('127.0.0.1', 64521)
+2024-06-25 20:42:20,404 - Execution time: 0.053862 seconds
+2024-06-25 20:42:20,404 - Search result sent to ('127.0.0.1', 64521)
+2024-06-25 21:34:29,249 - Server started on 0.0.0.0:12345
+2024-06-25 21:34:38,428 - Received query: hi from ('127.0.0.1', 63235)
+2024-06-25 21:34:38,480 - Execution time: 0.051825 seconds
+2024-06-25 21:34:38,481 - Search result sent to ('127.0.0.1', 63235)
+2024-06-25 22:36:13,071 - Server started on 0.0.0.0:12345
+2024-06-25 22:36:20,671 - Received query: j from ('127.0.0.1', 63761)
+2024-06-25 22:36:20,672 - Error handling client ('127.0.0.1', 63761): [Errno 2] No such file or directory: '..data/200k.txt'
+2024-06-25 22:36:45,504 - Server started on 0.0.0.0:12345
+2024-06-25 22:36:50,350 - Received query: l from ('127.0.0.1', 63779)
+2024-06-25 22:36:50,402 - Execution time: 0.052000 seconds
+2024-06-25 22:36:50,402 - Search result sent to ('127.0.0.1', 63779)
+2024-06-25 22:41:07,657 - Received query: hello from ('127.0.0.1', 63810)
+2024-06-25 22:41:07,710 - Execution time: 0.052998 seconds
+2024-06-25 22:41:07,710 - Search result sent to ('127.0.0.1', 63810)
+2024-06-25 22:41:07,711 - Received query: hello from ('127.0.0.1', 63811)
+2024-06-25 22:41:07,762 - Execution time: 0.050602 seconds
+2024-06-25 22:41:07,763 - Search result sent to ('127.0.0.1', 63811)
+2024-06-25 22:41:07,763 - Received query: hello from ('127.0.0.1', 63812)
+2024-06-25 22:41:07,815 - Execution time: 0.051997 seconds
+2024-06-25 22:41:07,815 - Search result sent to ('127.0.0.1', 63812)
+2024-06-25 22:41:07,816 - Received query: hello from ('127.0.0.1', 63813)
+2024-06-25 22:41:07,870 - Execution time: 0.054000 seconds
+2024-06-25 22:41:07,871 - Search result sent to ('127.0.0.1', 63813)
+2024-06-25 22:41:07,871 - Received query: hello from ('127.0.0.1', 63814)
+2024-06-25 22:41:07,923 - Execution time: 0.051999 seconds
+2024-06-25 22:41:07,924 - Search result sent to ('127.0.0.1', 63814)
+2024-06-25 22:41:07,924 - Received query: hello from ('127.0.0.1', 63815)
+2024-06-25 22:41:07,974 - Execution time: 0.050683 seconds
+2024-06-25 22:41:07,976 - Search result sent to ('127.0.0.1', 63815)
+2024-06-25 22:41:07,976 - Received query: hello from ('127.0.0.1', 63816)
+2024-06-25 22:41:08,026 - Execution time: 0.050998 seconds
+2024-06-25 22:41:08,027 - Search result sent to ('127.0.0.1', 63816)
+2024-06-25 22:41:08,027 - Received query: hello from ('127.0.0.1', 63817)
+2024-06-25 22:41:08,078 - Execution time: 0.051000 seconds
+2024-06-25 22:41:08,078 - Search result sent to ('127.0.0.1', 63817)
+2024-06-25 22:41:08,079 - Received query: hello from ('127.0.0.1', 63818)
+2024-06-25 22:41:08,131 - Execution time: 0.051556 seconds
+2024-06-25 22:41:08,132 - Search result sent to ('127.0.0.1', 63818)
+2024-06-25 22:41:08,132 - Received query: hello from ('127.0.0.1', 63819)
+2024-06-25 22:41:08,183 - Execution time: 0.050694 seconds
+2024-06-25 22:41:08,184 - Search result sent to ('127.0.0.1', 63819)
+2024-06-25 22:41:08,184 - Received query: hello from ('127.0.0.1', 63820)
+2024-06-25 22:41:08,234 - Execution time: 0.049999 seconds
+2024-06-25 22:41:08,235 - Search result sent to ('127.0.0.1', 63820)
+2024-06-25 22:41:08,235 - Received query: hello from ('127.0.0.1', 63821)
+2024-06-25 22:41:08,287 - Execution time: 0.052001 seconds
+2024-06-25 22:41:08,287 - Search result sent to ('127.0.0.1', 63821)
+2024-06-25 22:41:08,287 - Received query: hello from ('127.0.0.1', 63822)
+2024-06-25 22:41:08,338 - Execution time: 0.051001 seconds
+2024-06-25 22:41:08,338 - Search result sent to ('127.0.0.1', 63822)
+2024-06-25 22:41:08,339 - Received query: hello from ('127.0.0.1', 63823)
+2024-06-25 22:41:08,389 - Execution time: 0.050610 seconds
+2024-06-25 22:41:08,390 - Search result sent to ('127.0.0.1', 63823)
+2024-06-25 22:41:08,390 - Received query: hello from ('127.0.0.1', 63824)
+2024-06-25 22:41:08,441 - Execution time: 0.051004 seconds
+2024-06-25 22:41:08,441 - Search result sent to ('127.0.0.1', 63824)
+2024-06-25 22:41:08,442 - Received query: hello from ('127.0.0.1', 63825)
+2024-06-25 22:41:08,493 - Execution time: 0.050920 seconds
+2024-06-25 22:41:08,493 - Search result sent to ('127.0.0.1', 63825)
+2024-06-25 22:41:08,494 - Received query: hello from ('127.0.0.1', 63826)
+2024-06-25 22:41:08,545 - Execution time: 0.051031 seconds
+2024-06-25 22:41:08,545 - Search result sent to ('127.0.0.1', 63826)
+2024-06-25 22:41:08,546 - Received query: hello from ('127.0.0.1', 63827)
+2024-06-25 22:41:08,598 - Execution time: 0.051604 seconds
+2024-06-25 22:41:08,599 - Search result sent to ('127.0.0.1', 63827)
+2024-06-25 22:41:08,599 - Received query: hello from ('127.0.0.1', 63828)
+2024-06-25 22:41:08,651 - Execution time: 0.052000 seconds
+2024-06-25 22:41:08,651 - Search result sent to ('127.0.0.1', 63828)
+2024-06-25 22:41:08,652 - Received query: hello from ('127.0.0.1', 63829)
+2024-06-25 22:41:08,704 - Execution time: 0.051608 seconds
+2024-06-25 22:41:08,704 - Search result sent to ('127.0.0.1', 63829)
+2024-06-25 22:41:08,705 - Received query: hello from ('127.0.0.1', 63830)
+2024-06-25 22:41:08,755 - Execution time: 0.049926 seconds
+2024-06-25 22:41:08,755 - Search result sent to ('127.0.0.1', 63830)
+2024-06-25 22:41:08,756 - Received query: hello from ('127.0.0.1', 63831)
+2024-06-25 22:41:08,805 - Execution time: 0.049583 seconds
+2024-06-25 22:41:08,805 - Search result sent to ('127.0.0.1', 63831)
+2024-06-25 22:41:08,806 - Received query: hello from ('127.0.0.1', 63832)
+2024-06-25 22:41:08,858 - Execution time: 0.052000 seconds
+2024-06-25 22:41:08,858 - Search result sent to ('127.0.0.1', 63832)
+2024-06-25 22:41:08,858 - Received query: hello from ('127.0.0.1', 63833)
+2024-06-25 22:41:08,911 - Execution time: 0.053001 seconds
+2024-06-25 22:41:08,911 - Search result sent to ('127.0.0.1', 63833)
+2024-06-25 22:41:08,912 - Received query: hello from ('127.0.0.1', 63834)
+2024-06-25 22:41:08,963 - Execution time: 0.051000 seconds
+2024-06-25 22:41:08,963 - Search result sent to ('127.0.0.1', 63834)
+2024-06-25 22:41:08,964 - Received query: hello from ('127.0.0.1', 63835)
+2024-06-25 22:41:09,015 - Execution time: 0.050586 seconds
+2024-06-25 22:41:09,015 - Search result sent to ('127.0.0.1', 63835)
+2024-06-25 22:41:09,016 - Received query: hello from ('127.0.0.1', 63836)
+2024-06-25 22:41:09,066 - Execution time: 0.049999 seconds
+2024-06-25 22:41:09,066 - Search result sent to ('127.0.0.1', 63836)
+2024-06-25 22:41:09,066 - Received query: hello from ('127.0.0.1', 63837)
+2024-06-25 22:41:09,119 - Execution time: 0.052999 seconds
+2024-06-25 22:41:09,119 - Search result sent to ('127.0.0.1', 63837)
+2024-06-25 22:41:09,120 - Received query: hello from ('127.0.0.1', 63838)
+2024-06-25 22:41:09,184 - Execution time: 0.064623 seconds
+2024-06-25 22:41:09,185 - Search result sent to ('127.0.0.1', 63838)
+2024-06-25 22:41:09,185 - Received query: hello from ('127.0.0.1', 63839)
+2024-06-25 22:41:09,239 - Execution time: 0.053321 seconds
+2024-06-25 22:41:09,239 - Search result sent to ('127.0.0.1', 63839)
+2024-06-25 22:41:09,239 - Received query: hello from ('127.0.0.1', 63840)
+2024-06-25 22:41:09,290 - Execution time: 0.051620 seconds
+2024-06-25 22:41:09,290 - Search result sent to ('127.0.0.1', 63840)
+2024-06-25 22:41:09,291 - Received query: hello from ('127.0.0.1', 63841)
+2024-06-25 22:41:09,343 - Execution time: 0.052027 seconds
+2024-06-25 22:41:09,344 - Search result sent to ('127.0.0.1', 63841)
+2024-06-25 22:41:09,344 - Received query: hello from ('127.0.0.1', 63842)
+2024-06-25 22:41:09,394 - Execution time: 0.049917 seconds
+2024-06-25 22:41:09,394 - Search result sent to ('127.0.0.1', 63842)
+2024-06-25 22:41:09,395 - Received query: hello from ('127.0.0.1', 63843)
+2024-06-25 22:41:09,446 - Execution time: 0.050998 seconds
+2024-06-25 22:41:09,446 - Search result sent to ('127.0.0.1', 63843)
+2024-06-25 22:41:09,447 - Received query: hello from ('127.0.0.1', 63844)
+2024-06-25 22:41:09,497 - Execution time: 0.050000 seconds
+2024-06-25 22:41:09,497 - Search result sent to ('127.0.0.1', 63844)
+2024-06-25 22:41:09,498 - Received query: hello from ('127.0.0.1', 63845)
+2024-06-25 22:41:09,548 - Execution time: 0.050000 seconds
+2024-06-25 22:41:09,548 - Search result sent to ('127.0.0.1', 63845)
+2024-06-25 22:41:09,549 - Received query: hello from ('127.0.0.1', 63846)
+2024-06-25 22:41:09,600 - Execution time: 0.050564 seconds
+2024-06-25 22:41:09,600 - Search result sent to ('127.0.0.1', 63846)
+2024-06-25 22:41:09,600 - Received query: hello from ('127.0.0.1', 63847)
+2024-06-25 22:41:09,651 - Execution time: 0.051000 seconds
+2024-06-25 22:41:09,651 - Search result sent to ('127.0.0.1', 63847)
+2024-06-25 22:41:09,652 - Received query: hello from ('127.0.0.1', 63848)
+2024-06-25 22:41:09,703 - Execution time: 0.050999 seconds
+2024-06-25 22:41:09,703 - Search result sent to ('127.0.0.1', 63848)
+2024-06-25 22:41:09,704 - Received query: hello from ('127.0.0.1', 63849)
+2024-06-25 22:41:09,755 - Execution time: 0.051000 seconds
+2024-06-25 22:41:09,755 - Search result sent to ('127.0.0.1', 63849)
+2024-06-25 22:41:09,756 - Received query: hello from ('127.0.0.1', 63850)
+2024-06-25 22:41:09,807 - Execution time: 0.051581 seconds
+2024-06-25 22:41:09,807 - Search result sent to ('127.0.0.1', 63850)
+2024-06-25 22:41:09,807 - Received query: hello from ('127.0.0.1', 63851)
+2024-06-25 22:41:09,861 - Execution time: 0.054001 seconds
+2024-06-25 22:41:09,861 - Search result sent to ('127.0.0.1', 63851)
+2024-06-25 22:41:09,862 - Received query: hello from ('127.0.0.1', 63852)
+2024-06-25 22:41:09,913 - Execution time: 0.051000 seconds
+2024-06-25 22:41:09,913 - Search result sent to ('127.0.0.1', 63852)
+2024-06-25 22:41:09,914 - Received query: hello from ('127.0.0.1', 63853)
+2024-06-25 22:41:09,968 - Execution time: 0.054002 seconds
+2024-06-25 22:41:09,968 - Search result sent to ('127.0.0.1', 63853)
+2024-06-25 22:41:09,969 - Received query: hello from ('127.0.0.1', 63854)
+2024-06-25 22:41:10,028 - Execution time: 0.058669 seconds
+2024-06-25 22:41:10,028 - Search result sent to ('127.0.0.1', 63854)
+2024-06-25 22:41:10,029 - Received query: hello from ('127.0.0.1', 63855)
+2024-06-25 22:41:10,080 - Execution time: 0.051997 seconds
+2024-06-25 22:41:10,080 - Search result sent to ('127.0.0.1', 63855)
+2024-06-25 22:41:10,080 - Received query: hello from ('127.0.0.1', 63856)
+2024-06-25 22:41:10,139 - Execution time: 0.059003 seconds
+2024-06-25 22:41:10,139 - Search result sent to ('127.0.0.1', 63856)
+2024-06-25 22:41:10,140 - Received query: hello from ('127.0.0.1', 63857)
+2024-06-25 22:41:10,194 - Execution time: 0.053998 seconds
+2024-06-25 22:41:10,194 - Search result sent to ('127.0.0.1', 63857)
+2024-06-25 22:41:10,196 - Received query: hello from ('127.0.0.1', 63858)
+2024-06-25 22:41:10,253 - Execution time: 0.057010 seconds
+2024-06-25 22:41:10,253 - Search result sent to ('127.0.0.1', 63858)
+2024-06-25 22:41:10,254 - Received query: hello from ('127.0.0.1', 63859)
+2024-06-25 22:41:10,307 - Execution time: 0.052999 seconds
+2024-06-25 22:41:10,307 - Search result sent to ('127.0.0.1', 63859)
+2024-06-25 22:41:10,308 - Received query: hello from ('127.0.0.1', 63860)
+2024-06-25 22:41:10,361 - Execution time: 0.052999 seconds
+2024-06-25 22:41:10,361 - Search result sent to ('127.0.0.1', 63860)
+2024-06-25 22:41:10,361 - Received query: hello from ('127.0.0.1', 63861)
+2024-06-25 22:41:10,411 - Execution time: 0.050686 seconds
+2024-06-25 22:41:10,411 - Search result sent to ('127.0.0.1', 63861)
+2024-06-25 22:41:10,411 - Received query: hello from ('127.0.0.1', 63862)
+2024-06-25 22:41:10,463 - Execution time: 0.051999 seconds
+2024-06-25 22:41:10,463 - Search result sent to ('127.0.0.1', 63862)
+2024-06-25 22:41:10,463 - Received query: hello from ('127.0.0.1', 63863)
+2024-06-25 22:41:10,514 - Execution time: 0.051000 seconds
+2024-06-25 22:41:10,514 - Search result sent to ('127.0.0.1', 63863)
+2024-06-25 22:41:10,515 - Received query: hello from ('127.0.0.1', 63864)
+2024-06-25 22:41:10,565 - Execution time: 0.049999 seconds
+2024-06-25 22:41:10,566 - Search result sent to ('127.0.0.1', 63864)
+2024-06-25 22:41:10,566 - Received query: hello from ('127.0.0.1', 63865)
+2024-06-25 22:41:10,618 - Execution time: 0.051672 seconds
+2024-06-25 22:41:10,619 - Search result sent to ('127.0.0.1', 63865)
+2024-06-25 22:41:10,619 - Received query: hello from ('127.0.0.1', 63866)
+2024-06-25 22:41:10,671 - Execution time: 0.051999 seconds
+2024-06-25 22:41:10,671 - Search result sent to ('127.0.0.1', 63866)
+2024-06-25 22:41:10,672 - Received query: hello from ('127.0.0.1', 63867)
+2024-06-25 22:41:10,723 - Execution time: 0.051000 seconds
+2024-06-25 22:41:10,723 - Search result sent to ('127.0.0.1', 63867)
+2024-06-25 22:41:10,724 - Received query: hello from ('127.0.0.1', 63868)
+2024-06-25 22:41:10,775 - Execution time: 0.050999 seconds
+2024-06-25 22:41:10,775 - Search result sent to ('127.0.0.1', 63868)
+2024-06-25 22:41:10,775 - Received query: hello from ('127.0.0.1', 63869)
+2024-06-25 22:41:10,826 - Execution time: 0.050601 seconds
+2024-06-25 22:41:10,826 - Search result sent to ('127.0.0.1', 63869)
+2024-06-25 22:41:10,827 - Received query: hello from ('127.0.0.1', 63870)
+2024-06-25 22:41:10,878 - Execution time: 0.050999 seconds
+2024-06-25 22:41:10,878 - Search result sent to ('127.0.0.1', 63870)
+2024-06-25 22:41:10,879 - Received query: hello from ('127.0.0.1', 63871)
+2024-06-25 22:41:10,930 - Execution time: 0.050999 seconds
+2024-06-25 22:41:10,930 - Search result sent to ('127.0.0.1', 63871)
+2024-06-25 22:41:10,931 - Received query: hello from ('127.0.0.1', 63872)
+2024-06-25 22:41:10,983 - Execution time: 0.052000 seconds
+2024-06-25 22:41:10,983 - Search result sent to ('127.0.0.1', 63872)
+2024-06-25 22:41:10,984 - Received query: hello from ('127.0.0.1', 63873)
+2024-06-25 22:41:11,034 - Execution time: 0.050591 seconds
+2024-06-25 22:41:11,034 - Search result sent to ('127.0.0.1', 63873)
+2024-06-25 22:41:11,035 - Received query: hello from ('127.0.0.1', 63874)
+2024-06-25 22:41:11,085 - Execution time: 0.050000 seconds
+2024-06-25 22:41:11,085 - Search result sent to ('127.0.0.1', 63874)
+2024-06-25 22:41:11,086 - Received query: hello from ('127.0.0.1', 63875)
+2024-06-25 22:41:11,136 - Execution time: 0.050000 seconds
+2024-06-25 22:41:11,136 - Search result sent to ('127.0.0.1', 63875)
+2024-06-25 22:41:11,136 - Received query: hello from ('127.0.0.1', 63876)
+2024-06-25 22:41:11,190 - Execution time: 0.054001 seconds
+2024-06-25 22:41:11,190 - Search result sent to ('127.0.0.1', 63876)
+2024-06-25 22:41:11,191 - Received query: hello from ('127.0.0.1', 63877)
+2024-06-25 22:41:11,248 - Execution time: 0.056912 seconds
+2024-06-25 22:41:11,249 - Search result sent to ('127.0.0.1', 63877)
+2024-06-25 22:41:11,250 - Received query: hello from ('127.0.0.1', 63878)
+2024-06-25 22:41:11,302 - Execution time: 0.052116 seconds
+2024-06-25 22:41:11,302 - Search result sent to ('127.0.0.1', 63878)
+2024-06-25 22:41:11,303 - Received query: hello from ('127.0.0.1', 63879)
+2024-06-25 22:41:11,353 - Execution time: 0.050195 seconds
+2024-06-25 22:41:11,353 - Search result sent to ('127.0.0.1', 63879)
+2024-06-25 22:41:11,353 - Received query: hello from ('127.0.0.1', 63880)
+2024-06-25 22:41:11,405 - Execution time: 0.051931 seconds
+2024-06-25 22:41:11,405 - Search result sent to ('127.0.0.1', 63880)
+2024-06-25 22:41:11,406 - Received query: hello from ('127.0.0.1', 63881)
+2024-06-25 22:41:11,459 - Execution time: 0.052734 seconds
+2024-06-25 22:41:11,460 - Search result sent to ('127.0.0.1', 63881)
+2024-06-25 22:41:11,460 - Received query: hello from ('127.0.0.1', 63882)
+2024-06-25 22:41:11,511 - Execution time: 0.050561 seconds
+2024-06-25 22:41:11,512 - Search result sent to ('127.0.0.1', 63882)
+2024-06-25 22:41:11,512 - Received query: hello from ('127.0.0.1', 63883)
+2024-06-25 22:41:11,567 - Execution time: 0.054999 seconds
+2024-06-25 22:41:11,567 - Search result sent to ('127.0.0.1', 63883)
+2024-06-25 22:41:11,568 - Received query: hello from ('127.0.0.1', 63884)
+2024-06-25 22:41:11,618 - Execution time: 0.050695 seconds
+2024-06-25 22:41:11,618 - Search result sent to ('127.0.0.1', 63884)
+2024-06-25 22:41:11,619 - Received query: hello from ('127.0.0.1', 63885)
+2024-06-25 22:41:11,670 - Execution time: 0.050999 seconds
+2024-06-25 22:41:11,670 - Search result sent to ('127.0.0.1', 63885)
+2024-06-25 22:41:11,670 - Received query: hello from ('127.0.0.1', 63886)
+2024-06-25 22:41:11,721 - Execution time: 0.051001 seconds
+2024-06-25 22:41:11,721 - Search result sent to ('127.0.0.1', 63886)
+2024-06-25 22:41:11,722 - Received query: hello from ('127.0.0.1', 63887)
+2024-06-25 22:41:11,772 - Execution time: 0.050001 seconds
+2024-06-25 22:41:11,772 - Search result sent to ('127.0.0.1', 63887)
+2024-06-25 22:41:11,772 - Received query: hello from ('127.0.0.1', 63888)
+2024-06-25 22:41:11,825 - Execution time: 0.052585 seconds
+2024-06-25 22:41:11,825 - Search result sent to ('127.0.0.1', 63888)
+2024-06-25 22:41:11,826 - Received query: hello from ('127.0.0.1', 63890)
+2024-06-25 22:41:11,878 - Execution time: 0.053000 seconds
+2024-06-25 22:41:11,878 - Search result sent to ('127.0.0.1', 63890)
+2024-06-25 22:41:11,879 - Received query: hello from ('127.0.0.1', 63891)
+2024-06-25 22:41:11,935 - Execution time: 0.056000 seconds
+2024-06-25 22:41:11,935 - Search result sent to ('127.0.0.1', 63891)
+2024-06-25 22:41:11,936 - Received query: hello from ('127.0.0.1', 63892)
+2024-06-25 22:41:11,991 - Execution time: 0.054999 seconds
+2024-06-25 22:41:11,991 - Search result sent to ('127.0.0.1', 63892)
+2024-06-25 22:41:11,992 - Received query: hello from ('127.0.0.1', 63893)
+2024-06-25 22:41:12,044 - Execution time: 0.052654 seconds
+2024-06-25 22:41:12,044 - Search result sent to ('127.0.0.1', 63893)
+2024-06-25 22:41:12,045 - Received query: hello from ('127.0.0.1', 63894)
+2024-06-25 22:41:12,100 - Execution time: 0.055002 seconds
+2024-06-25 22:41:12,101 - Search result sent to ('127.0.0.1', 63894)
+2024-06-25 22:41:12,101 - Received query: hello from ('127.0.0.1', 63896)
+2024-06-25 22:41:12,156 - Execution time: 0.054999 seconds
+2024-06-25 22:41:12,156 - Search result sent to ('127.0.0.1', 63896)
+2024-06-25 22:41:12,157 - Received query: hello from ('127.0.0.1', 63897)
+2024-06-25 22:41:12,212 - Execution time: 0.054999 seconds
+2024-06-25 22:41:12,212 - Search result sent to ('127.0.0.1', 63897)
+2024-06-25 22:41:12,213 - Received query: hello from ('127.0.0.1', 63898)
+2024-06-25 22:41:12,270 - Execution time: 0.056305 seconds
+2024-06-25 22:41:12,270 - Search result sent to ('127.0.0.1', 63898)
+2024-06-25 22:41:12,271 - Received query: hello from ('127.0.0.1', 63899)
+2024-06-25 22:41:12,323 - Execution time: 0.052644 seconds
+2024-06-25 22:41:12,323 - Search result sent to ('127.0.0.1', 63899)
+2024-06-25 22:41:12,324 - Received query: hello from ('127.0.0.1', 63900)
+2024-06-25 22:41:12,379 - Execution time: 0.055077 seconds
+2024-06-25 22:41:12,379 - Search result sent to ('127.0.0.1', 63900)
+2024-06-25 22:41:12,380 - Received query: hello from ('127.0.0.1', 63901)
+2024-06-25 22:41:12,432 - Execution time: 0.051999 seconds
+2024-06-25 22:41:12,432 - Search result sent to ('127.0.0.1', 63901)
+2024-06-25 22:41:12,433 - Received query: hello from ('127.0.0.1', 63902)
+2024-06-25 22:41:12,486 - Execution time: 0.052597 seconds
+2024-06-25 22:41:12,486 - Search result sent to ('127.0.0.1', 63902)
+2024-06-25 22:41:12,486 - Received query: hello from ('127.0.0.1', 63903)
+2024-06-25 22:41:12,538 - Execution time: 0.051603 seconds
+2024-06-25 22:41:12,538 - Search result sent to ('127.0.0.1', 63903)
+2024-06-25 22:41:12,538 - Received query: hello from ('127.0.0.1', 63905)
+2024-06-25 22:41:12,589 - Execution time: 0.051000 seconds
+2024-06-25 22:41:12,589 - Search result sent to ('127.0.0.1', 63905)
+2024-06-25 22:41:12,589 - Received query: hello from ('127.0.0.1', 63906)
+2024-06-25 22:41:12,641 - Execution time: 0.051532 seconds
+2024-06-25 22:41:12,641 - Search result sent to ('127.0.0.1', 63906)
+2024-06-25 22:41:12,641 - Received query: hello from ('127.0.0.1', 63907)
+2024-06-25 22:41:12,695 - Execution time: 0.053615 seconds
+2024-06-25 22:41:12,695 - Search result sent to ('127.0.0.1', 63907)
+2024-06-25 22:41:12,696 - Received query: hello from ('127.0.0.1', 63908)
+2024-06-25 22:41:12,747 - Execution time: 0.051001 seconds
+2024-06-25 22:41:12,747 - Search result sent to ('127.0.0.1', 63908)
+2024-06-25 22:41:12,748 - Received query: hello from ('127.0.0.1', 63909)
+2024-06-25 22:41:12,798 - Execution time: 0.050224 seconds
+2024-06-25 22:41:12,798 - Search result sent to ('127.0.0.1', 63909)
+2024-06-25 22:41:12,798 - Received query: hello from ('127.0.0.1', 63910)
+2024-06-25 22:41:12,850 - Execution time: 0.050965 seconds
+2024-06-25 22:41:12,850 - Search result sent to ('127.0.0.1', 63910)
+2024-06-25 22:41:12,850 - Received query: hello from ('127.0.0.1', 63912)
+2024-06-25 22:41:12,903 - Execution time: 0.053136 seconds
+2024-06-25 22:41:12,903 - Search result sent to ('127.0.0.1', 63912)
+2024-06-25 22:41:12,904 - Received query: hello from ('127.0.0.1', 63913)
+2024-06-25 22:41:12,956 - Execution time: 0.051999 seconds
+2024-06-25 22:41:12,956 - Search result sent to ('127.0.0.1', 63913)
+2024-06-26 00:05:22,763 - Server started on 0.0.0.0:12345
+2024-06-26 00:05:27,692 - Received query: d from ('127.0.0.1', 51049)
+2024-06-26 00:05:27,744 - Execution time: 0.051999 seconds
+2024-06-26 00:05:27,744 - Search result sent to ('127.0.0.1', 51049)
+2024-06-26 00:05:39,843 - Received query: d from ('127.0.0.1', 51057)
+2024-06-26 00:05:39,896 - Execution time: 0.053033 seconds
+2024-06-26 00:05:39,896 - Search result sent to ('127.0.0.1', 51057)
+2024-06-26 00:05:55,989 - Received query: hello from ('127.0.0.1', 51069)
+2024-06-26 00:05:56,043 - Execution time: 0.053996 seconds
+2024-06-26 00:05:56,043 - Search result sent to ('127.0.0.1', 51069)
+2024-06-26 00:05:56,043 - Received query: hello from ('127.0.0.1', 51070)
+2024-06-26 00:05:56,097 - Execution time: 0.054000 seconds
+2024-06-26 00:05:56,097 - Search result sent to ('127.0.0.1', 51070)
+2024-06-26 00:05:56,098 - Received query: hello from ('127.0.0.1', 51071)
+2024-06-26 00:05:56,149 - Execution time: 0.050631 seconds
+2024-06-26 00:05:56,150 - Search result sent to ('127.0.0.1', 51071)
+2024-06-26 00:05:56,150 - Received query: hello from ('127.0.0.1', 51072)
+2024-06-26 00:05:56,202 - Execution time: 0.052665 seconds
+2024-06-26 00:05:56,202 - Search result sent to ('127.0.0.1', 51072)
+2024-06-26 00:05:56,202 - Received query: hello from ('127.0.0.1', 51073)
+2024-06-26 00:05:56,253 - Execution time: 0.051037 seconds
+2024-06-26 00:05:56,253 - Search result sent to ('127.0.0.1', 51073)
+2024-06-26 00:05:56,254 - Received query: hello from ('127.0.0.1', 51074)
+2024-06-26 00:05:56,305 - Execution time: 0.051000 seconds
+2024-06-26 00:05:56,305 - Search result sent to ('127.0.0.1', 51074)
+2024-06-26 00:05:56,305 - Received query: hello from ('127.0.0.1', 51075)
+2024-06-26 00:05:56,358 - Execution time: 0.052647 seconds
+2024-06-26 00:05:56,358 - Search result sent to ('127.0.0.1', 51075)
+2024-06-26 00:05:56,358 - Received query: hello from ('127.0.0.1', 51076)
+2024-06-26 00:05:56,411 - Execution time: 0.053002 seconds
+2024-06-26 00:05:56,411 - Search result sent to ('127.0.0.1', 51076)
+2024-06-26 00:05:56,411 - Received query: hello from ('127.0.0.1', 51077)
+2024-06-26 00:05:56,465 - Execution time: 0.054143 seconds
+2024-06-26 00:05:56,465 - Search result sent to ('127.0.0.1', 51077)
+2024-06-26 00:05:56,466 - Received query: hello from ('127.0.0.1', 51078)
+2024-06-26 00:05:56,523 - Execution time: 0.056154 seconds
+2024-06-26 00:05:56,523 - Search result sent to ('127.0.0.1', 51078)
+2024-06-26 00:05:56,523 - Received query: hello from ('127.0.0.1', 51079)
+2024-06-26 00:05:56,575 - Execution time: 0.051782 seconds
+2024-06-26 00:05:56,576 - Search result sent to ('127.0.0.1', 51079)
+2024-06-26 00:05:56,576 - Received query: hello from ('127.0.0.1', 51080)
+2024-06-26 00:05:56,627 - Execution time: 0.051000 seconds
+2024-06-26 00:05:56,627 - Search result sent to ('127.0.0.1', 51080)
+2024-06-26 00:05:56,627 - Received query: hello from ('127.0.0.1', 51081)
+2024-06-26 00:05:56,678 - Execution time: 0.051000 seconds
+2024-06-26 00:05:56,678 - Search result sent to ('127.0.0.1', 51081)
+2024-06-26 00:05:56,678 - Received query: hello from ('127.0.0.1', 51082)
+2024-06-26 00:05:56,730 - Execution time: 0.051637 seconds
+2024-06-26 00:05:56,730 - Search result sent to ('127.0.0.1', 51082)
+2024-06-26 00:05:56,731 - Received query: hello from ('127.0.0.1', 51083)
+2024-06-26 00:05:56,781 - Execution time: 0.049667 seconds
+2024-06-26 00:05:56,781 - Search result sent to ('127.0.0.1', 51083)
+2024-06-26 00:05:56,781 - Received query: hello from ('127.0.0.1', 51084)
+2024-06-26 00:05:56,833 - Execution time: 0.051932 seconds
+2024-06-26 00:05:56,833 - Search result sent to ('127.0.0.1', 51084)
+2024-06-26 00:05:56,834 - Received query: hello from ('127.0.0.1', 51085)
+2024-06-26 00:05:56,885 - Execution time: 0.051000 seconds
+2024-06-26 00:05:56,885 - Search result sent to ('127.0.0.1', 51085)
+2024-06-26 00:05:56,885 - Received query: hello from ('127.0.0.1', 51086)
+2024-06-26 00:05:56,939 - Execution time: 0.053944 seconds
+2024-06-26 00:05:56,939 - Search result sent to ('127.0.0.1', 51086)
+2024-06-26 00:05:56,940 - Received query: hello from ('127.0.0.1', 51087)
+2024-06-26 00:05:56,992 - Execution time: 0.051563 seconds
+2024-06-26 00:05:56,992 - Search result sent to ('127.0.0.1', 51087)
+2024-06-26 00:05:56,993 - Received query: hello from ('127.0.0.1', 51088)
+2024-06-26 00:05:57,043 - Execution time: 0.049923 seconds
+2024-06-26 00:05:57,043 - Search result sent to ('127.0.0.1', 51088)
+2024-06-26 00:05:57,044 - Received query: hello from ('127.0.0.1', 51089)
+2024-06-26 00:05:57,093 - Execution time: 0.049762 seconds
+2024-06-26 00:05:57,093 - Search result sent to ('127.0.0.1', 51089)
+2024-06-26 00:05:57,094 - Received query: hello from ('127.0.0.1', 51090)
+2024-06-26 00:05:57,144 - Execution time: 0.049999 seconds
+2024-06-26 00:05:57,144 - Search result sent to ('127.0.0.1', 51090)
+2024-06-26 00:05:57,145 - Received query: hello from ('127.0.0.1', 51091)
+2024-06-26 00:05:57,197 - Execution time: 0.051665 seconds
+2024-06-26 00:05:57,197 - Search result sent to ('127.0.0.1', 51091)
+2024-06-26 00:05:57,198 - Received query: hello from ('127.0.0.1', 51092)
+2024-06-26 00:05:57,248 - Execution time: 0.050027 seconds
+2024-06-26 00:05:57,248 - Search result sent to ('127.0.0.1', 51092)
+2024-06-26 00:05:57,249 - Received query: hello from ('127.0.0.1', 51093)
+2024-06-26 00:05:57,300 - Execution time: 0.050903 seconds
+2024-06-26 00:05:57,301 - Search result sent to ('127.0.0.1', 51093)
+2024-06-26 00:05:57,301 - Received query: hello from ('127.0.0.1', 51094)
+2024-06-26 00:05:57,354 - Execution time: 0.053000 seconds
+2024-06-26 00:05:57,354 - Search result sent to ('127.0.0.1', 51094)
+2024-06-26 00:05:57,355 - Received query: hello from ('127.0.0.1', 51095)
+2024-06-26 00:05:57,406 - Execution time: 0.050732 seconds
+2024-06-26 00:05:57,407 - Search result sent to ('127.0.0.1', 51095)
+2024-06-26 00:05:57,407 - Received query: hello from ('127.0.0.1', 51096)
+2024-06-26 00:05:57,457 - Execution time: 0.050575 seconds
+2024-06-26 00:05:57,457 - Search result sent to ('127.0.0.1', 51096)
+2024-06-26 00:05:57,457 - Received query: hello from ('127.0.0.1', 51097)
+2024-06-26 00:05:57,508 - Execution time: 0.050509 seconds
+2024-06-26 00:05:57,508 - Search result sent to ('127.0.0.1', 51097)
+2024-06-26 00:05:57,509 - Received query: hello from ('127.0.0.1', 51098)
+2024-06-26 00:05:57,560 - Execution time: 0.051564 seconds
+2024-06-26 00:05:57,560 - Search result sent to ('127.0.0.1', 51098)
+2024-06-26 00:05:57,561 - Received query: hello from ('127.0.0.1', 51099)
+2024-06-26 00:05:57,611 - Execution time: 0.049642 seconds
+2024-06-26 00:05:57,611 - Search result sent to ('127.0.0.1', 51099)
+2024-06-26 00:05:57,612 - Received query: hello from ('127.0.0.1', 51100)
+2024-06-26 00:05:57,662 - Execution time: 0.050028 seconds
+2024-06-26 00:05:57,662 - Search result sent to ('127.0.0.1', 51100)
+2024-06-26 00:05:57,663 - Received query: hello from ('127.0.0.1', 51101)
+2024-06-26 00:05:57,714 - Execution time: 0.051011 seconds
+2024-06-26 00:05:57,714 - Search result sent to ('127.0.0.1', 51101)
+2024-06-26 00:05:57,714 - Received query: hello from ('127.0.0.1', 51102)
+2024-06-26 00:05:57,768 - Execution time: 0.054331 seconds
+2024-06-26 00:05:57,768 - Search result sent to ('127.0.0.1', 51102)
+2024-06-26 00:05:57,769 - Received query: hello from ('127.0.0.1', 51103)
+2024-06-26 00:05:57,820 - Execution time: 0.050707 seconds
+2024-06-26 00:05:57,820 - Search result sent to ('127.0.0.1', 51103)
+2024-06-26 00:05:57,821 - Received query: hello from ('127.0.0.1', 51104)
+2024-06-26 00:05:57,872 - Execution time: 0.050064 seconds
+2024-06-26 00:05:57,872 - Search result sent to ('127.0.0.1', 51104)
+2024-06-26 00:05:57,872 - Received query: hello from ('127.0.0.1', 51105)
+2024-06-26 00:05:57,922 - Execution time: 0.050506 seconds
+2024-06-26 00:05:57,922 - Search result sent to ('127.0.0.1', 51105)
+2024-06-26 00:05:57,923 - Received query: hello from ('127.0.0.1', 51106)
+2024-06-26 00:05:57,973 - Execution time: 0.050030 seconds
+2024-06-26 00:05:57,973 - Search result sent to ('127.0.0.1', 51106)
+2024-06-26 00:05:57,974 - Received query: hello from ('127.0.0.1', 51107)
+2024-06-26 00:05:58,024 - Execution time: 0.049855 seconds
+2024-06-26 00:05:58,024 - Search result sent to ('127.0.0.1', 51107)
+2024-06-26 00:05:58,025 - Received query: hello from ('127.0.0.1', 51108)
+2024-06-26 00:05:58,076 - Execution time: 0.050999 seconds
+2024-06-26 00:05:58,077 - Search result sent to ('127.0.0.1', 51108)
+2024-06-26 00:05:58,077 - Received query: hello from ('127.0.0.1', 51109)
+2024-06-26 00:05:58,127 - Execution time: 0.049600 seconds
+2024-06-26 00:05:58,128 - Search result sent to ('127.0.0.1', 51109)
+2024-06-26 00:05:58,128 - Received query: hello from ('127.0.0.1', 51110)
+2024-06-26 00:05:58,182 - Execution time: 0.053969 seconds
+2024-06-26 00:05:58,182 - Search result sent to ('127.0.0.1', 51110)
+2024-06-26 00:05:58,183 - Received query: hello from ('127.0.0.1', 51111)
+2024-06-26 00:05:58,234 - Execution time: 0.051610 seconds
+2024-06-26 00:05:58,234 - Search result sent to ('127.0.0.1', 51111)
+2024-06-26 00:05:58,235 - Received query: hello from ('127.0.0.1', 51112)
+2024-06-26 00:05:58,286 - Execution time: 0.050828 seconds
+2024-06-26 00:05:58,286 - Search result sent to ('127.0.0.1', 51112)
+2024-06-26 00:05:58,287 - Received query: hello from ('127.0.0.1', 51113)
+2024-06-26 00:05:58,337 - Execution time: 0.049999 seconds
+2024-06-26 00:05:58,337 - Search result sent to ('127.0.0.1', 51113)
+2024-06-26 00:05:58,338 - Received query: hello from ('127.0.0.1', 51114)
+2024-06-26 00:05:58,388 - Execution time: 0.050068 seconds
+2024-06-26 00:05:58,388 - Search result sent to ('127.0.0.1', 51114)
+2024-06-26 00:05:58,390 - Received query: hello from ('127.0.0.1', 51115)
+2024-06-26 00:05:58,440 - Execution time: 0.049998 seconds
+2024-06-26 00:05:58,440 - Search result sent to ('127.0.0.1', 51115)
+2024-06-26 00:05:58,441 - Received query: hello from ('127.0.0.1', 51116)
+2024-06-26 00:05:58,490 - Execution time: 0.049541 seconds
+2024-06-26 00:05:58,490 - Search result sent to ('127.0.0.1', 51116)
+2024-06-26 00:05:58,491 - Received query: hello from ('127.0.0.1', 51117)
+2024-06-26 00:05:58,546 - Execution time: 0.055058 seconds
+2024-06-26 00:05:58,546 - Search result sent to ('127.0.0.1', 51117)
+2024-06-26 00:05:58,546 - Received query: hello from ('127.0.0.1', 51118)
+2024-06-26 00:05:58,601 - Execution time: 0.054986 seconds
+2024-06-26 00:05:58,601 - Search result sent to ('127.0.0.1', 51118)
+2024-06-26 00:05:58,602 - Received query: hello from ('127.0.0.1', 51119)
+2024-06-26 00:05:58,653 - Execution time: 0.051032 seconds
+2024-06-26 00:05:58,653 - Search result sent to ('127.0.0.1', 51119)
+2024-06-26 00:05:58,654 - Received query: hello from ('127.0.0.1', 51120)
+2024-06-26 00:05:58,714 - Execution time: 0.059334 seconds
+2024-06-26 00:05:58,714 - Search result sent to ('127.0.0.1', 51120)
+2024-06-26 00:05:58,714 - Received query: hello from ('127.0.0.1', 51121)
+2024-06-26 00:05:58,765 - Execution time: 0.051032 seconds
+2024-06-26 00:05:58,766 - Search result sent to ('127.0.0.1', 51121)
+2024-06-26 00:05:58,766 - Received query: hello from ('127.0.0.1', 51122)
+2024-06-26 00:05:58,817 - Execution time: 0.051592 seconds
+2024-06-26 00:05:58,817 - Search result sent to ('127.0.0.1', 51122)
+2024-06-26 00:05:58,818 - Received query: hello from ('127.0.0.1', 51123)
+2024-06-26 00:05:58,870 - Execution time: 0.052002 seconds
+2024-06-26 00:05:58,870 - Search result sent to ('127.0.0.1', 51123)
+2024-06-26 00:05:58,870 - Received query: hello from ('127.0.0.1', 51124)
+2024-06-26 00:05:58,921 - Execution time: 0.051003 seconds
+2024-06-26 00:05:58,922 - Search result sent to ('127.0.0.1', 51124)
+2024-06-26 00:05:58,922 - Received query: hello from ('127.0.0.1', 51125)
+2024-06-26 00:05:58,973 - Execution time: 0.050288 seconds
+2024-06-26 00:05:58,974 - Search result sent to ('127.0.0.1', 51125)
+2024-06-26 00:05:58,974 - Received query: hello from ('127.0.0.1', 51126)
+2024-06-26 00:05:59,026 - Execution time: 0.052618 seconds
+2024-06-26 00:05:59,027 - Search result sent to ('127.0.0.1', 51126)
+2024-06-26 00:05:59,027 - Received query: hello from ('127.0.0.1', 51127)
+2024-06-26 00:05:59,078 - Execution time: 0.050685 seconds
+2024-06-26 00:05:59,078 - Search result sent to ('127.0.0.1', 51127)
+2024-06-26 00:05:59,079 - Received query: hello from ('127.0.0.1', 51128)
+2024-06-26 00:05:59,129 - Execution time: 0.050029 seconds
+2024-06-26 00:05:59,129 - Search result sent to ('127.0.0.1', 51128)
+2024-06-26 00:05:59,130 - Received query: hello from ('127.0.0.1', 51129)
+2024-06-26 00:05:59,180 - Execution time: 0.050009 seconds
+2024-06-26 00:05:59,181 - Search result sent to ('127.0.0.1', 51129)
+2024-06-26 00:05:59,181 - Received query: hello from ('127.0.0.1', 51130)
+2024-06-26 00:05:59,231 - Execution time: 0.050637 seconds
+2024-06-26 00:05:59,231 - Search result sent to ('127.0.0.1', 51130)
+2024-06-26 00:05:59,232 - Received query: hello from ('127.0.0.1', 51131)
+2024-06-26 00:05:59,282 - Execution time: 0.050002 seconds
+2024-06-26 00:05:59,282 - Search result sent to ('127.0.0.1', 51131)
+2024-06-26 00:05:59,283 - Received query: hello from ('127.0.0.1', 51132)
+2024-06-26 00:05:59,334 - Execution time: 0.050069 seconds
+2024-06-26 00:05:59,334 - Search result sent to ('127.0.0.1', 51132)
+2024-06-26 00:05:59,335 - Received query: hello from ('127.0.0.1', 51133)
+2024-06-26 00:05:59,385 - Execution time: 0.050029 seconds
+2024-06-26 00:05:59,385 - Search result sent to ('127.0.0.1', 51133)
+2024-06-26 00:05:59,386 - Received query: hello from ('127.0.0.1', 51134)
+2024-06-26 00:05:59,446 - Execution time: 0.060670 seconds
+2024-06-26 00:05:59,446 - Search result sent to ('127.0.0.1', 51134)
+2024-06-26 00:05:59,446 - Received query: hello from ('127.0.0.1', 51135)
+2024-06-26 00:05:59,500 - Execution time: 0.054034 seconds
+2024-06-26 00:05:59,501 - Search result sent to ('127.0.0.1', 51135)
+2024-06-26 00:05:59,501 - Received query: hello from ('127.0.0.1', 51136)
+2024-06-26 00:05:59,551 - Execution time: 0.050032 seconds
+2024-06-26 00:05:59,551 - Search result sent to ('127.0.0.1', 51136)
+2024-06-26 00:05:59,552 - Received query: hello from ('127.0.0.1', 51137)
+2024-06-26 00:05:59,603 - Execution time: 0.051069 seconds
+2024-06-26 00:05:59,603 - Search result sent to ('127.0.0.1', 51137)
+2024-06-26 00:05:59,604 - Received query: hello from ('127.0.0.1', 51138)
+2024-06-26 00:05:59,655 - Execution time: 0.050638 seconds
+2024-06-26 00:05:59,655 - Search result sent to ('127.0.0.1', 51138)
+2024-06-26 00:05:59,655 - Received query: hello from ('127.0.0.1', 51139)
+2024-06-26 00:05:59,706 - Execution time: 0.051002 seconds
+2024-06-26 00:05:59,706 - Search result sent to ('127.0.0.1', 51139)
+2024-06-26 00:05:59,707 - Received query: hello from ('127.0.0.1', 51140)
+2024-06-26 00:05:59,757 - Execution time: 0.050034 seconds
+2024-06-26 00:05:59,757 - Search result sent to ('127.0.0.1', 51140)
+2024-06-26 00:05:59,758 - Received query: hello from ('127.0.0.1', 51141)
+2024-06-26 00:05:59,811 - Execution time: 0.052158 seconds
+2024-06-26 00:05:59,811 - Search result sent to ('127.0.0.1', 51141)
+2024-06-26 00:05:59,811 - Received query: hello from ('127.0.0.1', 51142)
+2024-06-26 00:05:59,865 - Execution time: 0.053558 seconds
+2024-06-26 00:05:59,866 - Search result sent to ('127.0.0.1', 51142)
+2024-06-26 00:05:59,866 - Received query: hello from ('127.0.0.1', 51143)
+2024-06-26 00:05:59,922 - Execution time: 0.056638 seconds
+2024-06-26 00:05:59,922 - Search result sent to ('127.0.0.1', 51143)
+2024-06-26 00:05:59,922 - Received query: hello from ('127.0.0.1', 51144)
+2024-06-26 00:05:59,973 - Execution time: 0.051030 seconds
+2024-06-26 00:05:59,973 - Search result sent to ('127.0.0.1', 51144)
+2024-06-26 00:05:59,973 - Received query: hello from ('127.0.0.1', 51145)
+2024-06-26 00:06:00,024 - Execution time: 0.050998 seconds
+2024-06-26 00:06:00,024 - Search result sent to ('127.0.0.1', 51145)
+2024-06-26 00:06:00,025 - Received query: hello from ('127.0.0.1', 51146)
+2024-06-26 00:06:00,082 - Execution time: 0.056292 seconds
+2024-06-26 00:06:00,082 - Search result sent to ('127.0.0.1', 51146)
+2024-06-26 00:06:00,083 - Received query: hello from ('127.0.0.1', 51147)
+2024-06-26 00:06:00,133 - Execution time: 0.050029 seconds
+2024-06-26 00:06:00,133 - Search result sent to ('127.0.0.1', 51147)
+2024-06-26 00:06:00,134 - Received query: hello from ('127.0.0.1', 51148)
+2024-06-26 00:06:00,184 - Execution time: 0.050067 seconds
+2024-06-26 00:06:00,184 - Search result sent to ('127.0.0.1', 51148)
+2024-06-26 00:06:00,185 - Received query: hello from ('127.0.0.1', 51149)
+2024-06-26 00:06:00,236 - Execution time: 0.051494 seconds
+2024-06-26 00:06:00,236 - Search result sent to ('127.0.0.1', 51149)
+2024-06-26 00:06:00,236 - Received query: hello from ('127.0.0.1', 51150)
+2024-06-26 00:06:00,289 - Execution time: 0.052978 seconds
+2024-06-26 00:06:00,289 - Search result sent to ('127.0.0.1', 51150)
+2024-06-26 00:06:00,290 - Received query: hello from ('127.0.0.1', 51151)
+2024-06-26 00:06:00,341 - Execution time: 0.051039 seconds
+2024-06-26 00:06:00,341 - Search result sent to ('127.0.0.1', 51151)
+2024-06-26 00:06:00,342 - Received query: hello from ('127.0.0.1', 51152)
+2024-06-26 00:06:00,393 - Execution time: 0.051001 seconds
+2024-06-26 00:06:00,393 - Search result sent to ('127.0.0.1', 51152)
+2024-06-26 00:06:00,394 - Received query: hello from ('127.0.0.1', 51154)
+2024-06-26 00:06:00,445 - Execution time: 0.050692 seconds
+2024-06-26 00:06:00,446 - Search result sent to ('127.0.0.1', 51154)
+2024-06-26 00:06:00,446 - Received query: hello from ('127.0.0.1', 51156)
+2024-06-26 00:06:00,496 - Execution time: 0.049970 seconds
+2024-06-26 00:06:00,496 - Search result sent to ('127.0.0.1', 51156)
+2024-06-26 00:06:00,497 - Received query: hello from ('127.0.0.1', 51157)
+2024-06-26 00:06:00,547 - Execution time: 0.050586 seconds
+2024-06-26 00:06:00,548 - Search result sent to ('127.0.0.1', 51157)
+2024-06-26 00:06:00,548 - Received query: hello from ('127.0.0.1', 51158)
+2024-06-26 00:06:00,601 - Execution time: 0.052970 seconds
+2024-06-26 00:06:00,602 - Search result sent to ('127.0.0.1', 51158)
+2024-06-26 00:06:00,602 - Received query: hello from ('127.0.0.1', 51159)
+2024-06-26 00:06:00,654 - Execution time: 0.051365 seconds
+2024-06-26 00:06:00,654 - Search result sent to ('127.0.0.1', 51159)
+2024-06-26 00:06:00,654 - Received query: hello from ('127.0.0.1', 51162)
+2024-06-26 00:06:00,710 - Execution time: 0.055490 seconds
+2024-06-26 00:06:00,710 - Search result sent to ('127.0.0.1', 51162)
+2024-06-26 00:06:00,711 - Received query: hello from ('127.0.0.1', 51163)
+2024-06-26 00:06:00,764 - Execution time: 0.052998 seconds
+2024-06-26 00:06:00,764 - Search result sent to ('127.0.0.1', 51163)
+2024-06-26 00:06:00,765 - Received query: hello from ('127.0.0.1', 51164)
+2024-06-26 00:06:00,814 - Execution time: 0.049048 seconds
+2024-06-26 00:06:00,815 - Search result sent to ('127.0.0.1', 51164)
+2024-06-26 00:06:00,815 - Received query: hello from ('127.0.0.1', 51165)
+2024-06-26 00:06:00,866 - Execution time: 0.050652 seconds
+2024-06-26 00:06:00,866 - Search result sent to ('127.0.0.1', 51165)
+2024-06-26 00:06:00,867 - Received query: hello from ('127.0.0.1', 51166)
+2024-06-26 00:06:00,917 - Execution time: 0.050322 seconds
+2024-06-26 00:06:00,917 - Search result sent to ('127.0.0.1', 51166)
+2024-06-26 00:06:00,918 - Received query: hello from ('127.0.0.1', 51167)
+2024-06-26 00:06:00,968 - Execution time: 0.050001 seconds
+2024-06-26 00:06:00,968 - Search result sent to ('127.0.0.1', 51167)
+2024-06-26 00:06:00,969 - Received query: hello from ('127.0.0.1', 51168)
+2024-06-26 00:06:01,019 - Execution time: 0.050031 seconds
+2024-06-26 00:06:01,019 - Search result sent to ('127.0.0.1', 51168)
+2024-06-26 00:06:01,020 - Received query: hello from ('127.0.0.1', 51169)
+2024-06-26 00:06:01,071 - Execution time: 0.050982 seconds
+2024-06-26 00:06:01,071 - Search result sent to ('127.0.0.1', 51169)
+2024-06-26 00:06:01,072 - Received query: hello from ('127.0.0.1', 51170)
+2024-06-26 00:06:01,125 - Execution time: 0.052006 seconds
+2024-06-26 00:06:01,125 - Search result sent to ('127.0.0.1', 51170)
+2024-06-26 00:06:01,125 - Received query: hello from ('127.0.0.1', 51171)
+2024-06-26 00:06:01,176 - Execution time: 0.050876 seconds
+2024-06-26 00:06:01,176 - Search result sent to ('127.0.0.1', 51171)
+2024-06-26 00:06:01,177 - Received query: hello from ('127.0.0.1', 51172)
+2024-06-26 00:06:01,227 - Execution time: 0.049968 seconds
+2024-06-26 00:06:01,227 - Search result sent to ('127.0.0.1', 51172)
+2024-06-26 06:04:35,588 - Server started on 0.0.0.0:12345
+2024-06-26 06:04:42,103 - Received query: g from ('127.0.0.1', 59987)
+2024-06-26 06:04:42,153 - Execution time: 0.050000 seconds
+2024-06-26 06:04:42,153 - Search result sent to ('127.0.0.1', 59987)
+2024-06-26 06:05:00,896 - Received query: hello from ('127.0.0.1', 59997)
+2024-06-26 06:05:00,947 - Execution time: 0.050997 seconds
+2024-06-26 06:05:00,947 - Search result sent to ('127.0.0.1', 59997)
+2024-06-26 06:05:00,948 - Received query: hello from ('127.0.0.1', 59998)
+2024-06-26 06:05:00,998 - Execution time: 0.050001 seconds
+2024-06-26 06:05:00,999 - Search result sent to ('127.0.0.1', 59998)
+2024-06-26 06:05:00,999 - Received query: hello from ('127.0.0.1', 59999)
+2024-06-26 06:05:01,061 - Execution time: 0.061631 seconds
+2024-06-26 06:05:01,061 - Search result sent to ('127.0.0.1', 59999)
+2024-06-26 06:05:01,062 - Received query: hello from ('127.0.0.1', 60000)
+2024-06-26 06:05:01,119 - Execution time: 0.056999 seconds
+2024-06-26 06:05:01,120 - Search result sent to ('127.0.0.1', 60000)
+2024-06-26 06:05:01,120 - Received query: hello from ('127.0.0.1', 60001)
+2024-06-26 06:05:01,179 - Execution time: 0.058998 seconds
+2024-06-26 06:05:01,179 - Search result sent to ('127.0.0.1', 60001)
+2024-06-26 06:05:01,180 - Received query: hello from ('127.0.0.1', 60002)
+2024-06-26 06:05:01,238 - Execution time: 0.058000 seconds
+2024-06-26 06:05:01,239 - Search result sent to ('127.0.0.1', 60002)
+2024-06-26 06:05:01,239 - Received query: hello from ('127.0.0.1', 60003)
+2024-06-26 06:05:01,296 - Execution time: 0.057580 seconds
+2024-06-26 06:05:01,296 - Search result sent to ('127.0.0.1', 60003)
+2024-06-26 06:05:01,297 - Received query: hello from ('127.0.0.1', 60004)
+2024-06-26 06:05:01,348 - Execution time: 0.051000 seconds
+2024-06-26 06:05:01,348 - Search result sent to ('127.0.0.1', 60004)
+2024-06-26 06:05:01,349 - Received query: hello from ('127.0.0.1', 60005)
+2024-06-26 06:05:01,400 - Execution time: 0.050999 seconds
+2024-06-26 06:05:01,400 - Search result sent to ('127.0.0.1', 60005)
+2024-06-26 06:05:01,401 - Received query: hello from ('127.0.0.1', 60006)
+2024-06-26 06:05:01,451 - Execution time: 0.049998 seconds
+2024-06-26 06:05:01,451 - Search result sent to ('127.0.0.1', 60006)
+2024-06-26 06:05:01,452 - Received query: hello from ('127.0.0.1', 60007)
+2024-06-26 06:05:01,503 - Execution time: 0.050578 seconds
+2024-06-26 06:05:01,503 - Search result sent to ('127.0.0.1', 60007)
+2024-06-26 06:05:01,504 - Received query: hello from ('127.0.0.1', 60008)
+2024-06-26 06:05:01,554 - Execution time: 0.049999 seconds
+2024-06-26 06:05:01,554 - Search result sent to ('127.0.0.1', 60008)
+2024-06-26 06:05:01,554 - Received query: hello from ('127.0.0.1', 60009)
+2024-06-26 06:05:01,605 - Execution time: 0.051001 seconds
+2024-06-26 06:05:01,605 - Search result sent to ('127.0.0.1', 60009)
+2024-06-26 06:05:01,605 - Received query: hello from ('127.0.0.1', 60010)
+2024-06-26 06:05:01,659 - Execution time: 0.054299 seconds
+2024-06-26 06:05:01,659 - Search result sent to ('127.0.0.1', 60010)
+2024-06-26 06:05:01,660 - Received query: hello from ('127.0.0.1', 60011)
+2024-06-26 06:05:01,717 - Execution time: 0.057326 seconds
+2024-06-26 06:05:01,718 - Search result sent to ('127.0.0.1', 60011)
+2024-06-26 06:05:01,719 - Received query: hello from ('127.0.0.1', 60012)
+2024-06-26 06:05:01,769 - Execution time: 0.050347 seconds
+2024-06-26 06:05:01,769 - Search result sent to ('127.0.0.1', 60012)
+2024-06-26 06:05:01,770 - Received query: hello from ('127.0.0.1', 60013)
+2024-06-26 06:05:01,819 - Execution time: 0.048999 seconds
+2024-06-26 06:05:01,820 - Search result sent to ('127.0.0.1', 60013)
+2024-06-26 06:05:01,820 - Received query: hello from ('127.0.0.1', 60014)
+2024-06-26 06:05:01,871 - Execution time: 0.051559 seconds
+2024-06-26 06:05:01,871 - Search result sent to ('127.0.0.1', 60014)
+2024-06-26 06:05:01,872 - Received query: hello from ('127.0.0.1', 60015)
+2024-06-26 06:05:01,925 - Execution time: 0.053000 seconds
+2024-06-26 06:05:01,925 - Search result sent to ('127.0.0.1', 60015)
+2024-06-26 06:05:01,926 - Received query: hello from ('127.0.0.1', 60016)
+2024-06-26 06:05:01,976 - Execution time: 0.049999 seconds
+2024-06-26 06:05:01,976 - Search result sent to ('127.0.0.1', 60016)
+2024-06-26 06:05:01,977 - Received query: hello from ('127.0.0.1', 60017)
+2024-06-26 06:05:02,027 - Execution time: 0.049145 seconds
+2024-06-26 06:05:02,028 - Search result sent to ('127.0.0.1', 60017)
+2024-06-26 06:05:02,028 - Received query: hello from ('127.0.0.1', 60018)
+2024-06-26 06:05:02,077 - Execution time: 0.049574 seconds
+2024-06-26 06:05:02,077 - Search result sent to ('127.0.0.1', 60018)
+2024-06-26 06:05:02,078 - Received query: hello from ('127.0.0.1', 60019)
+2024-06-26 06:05:02,138 - Execution time: 0.060000 seconds
+2024-06-26 06:05:02,138 - Search result sent to ('127.0.0.1', 60019)
+2024-06-26 06:05:02,138 - Received query: hello from ('127.0.0.1', 60020)
+2024-06-26 06:05:02,191 - Execution time: 0.053002 seconds
+2024-06-26 06:05:02,191 - Search result sent to ('127.0.0.1', 60020)
+2024-06-26 06:05:02,192 - Received query: hello from ('127.0.0.1', 60021)
+2024-06-26 06:05:02,243 - Execution time: 0.052000 seconds
+2024-06-26 06:05:02,244 - Search result sent to ('127.0.0.1', 60021)
+2024-06-26 06:05:02,245 - Received query: hello from ('127.0.0.1', 60022)
+2024-06-26 06:05:02,298 - Execution time: 0.052335 seconds
+2024-06-26 06:05:02,298 - Search result sent to ('127.0.0.1', 60022)
+2024-06-26 06:05:02,299 - Received query: hello from ('127.0.0.1', 60023)
+2024-06-26 06:05:02,349 - Execution time: 0.049936 seconds
+2024-06-26 06:05:02,350 - Search result sent to ('127.0.0.1', 60023)
+2024-06-26 06:05:02,350 - Received query: hello from ('127.0.0.1', 60024)
+2024-06-26 06:05:02,402 - Execution time: 0.051999 seconds
+2024-06-26 06:05:02,402 - Search result sent to ('127.0.0.1', 60024)
+2024-06-26 06:05:02,403 - Received query: hello from ('127.0.0.1', 60025)
+2024-06-26 06:05:02,453 - Execution time: 0.049999 seconds
+2024-06-26 06:05:02,453 - Search result sent to ('127.0.0.1', 60025)
+2024-06-26 06:05:02,454 - Received query: hello from ('127.0.0.1', 60026)
+2024-06-26 06:05:02,503 - Execution time: 0.049001 seconds
+2024-06-26 06:05:02,503 - Search result sent to ('127.0.0.1', 60026)
+2024-06-26 06:05:02,504 - Received query: hello from ('127.0.0.1', 60027)
+2024-06-26 06:05:02,557 - Execution time: 0.053000 seconds
+2024-06-26 06:05:02,558 - Search result sent to ('127.0.0.1', 60027)
+2024-06-26 06:05:02,558 - Received query: hello from ('127.0.0.1', 60028)
+2024-06-26 06:05:02,619 - Execution time: 0.060997 seconds
+2024-06-26 06:05:02,619 - Search result sent to ('127.0.0.1', 60028)
+2024-06-26 06:05:02,620 - Received query: hello from ('127.0.0.1', 60029)
+2024-06-26 06:05:02,680 - Execution time: 0.060588 seconds
+2024-06-26 06:05:02,681 - Search result sent to ('127.0.0.1', 60029)
+2024-06-26 06:05:02,681 - Received query: hello from ('127.0.0.1', 60030)
+2024-06-26 06:05:02,738 - Execution time: 0.056345 seconds
+2024-06-26 06:05:02,738 - Search result sent to ('127.0.0.1', 60030)
+2024-06-26 06:05:02,739 - Received query: hello from ('127.0.0.1', 60031)
+2024-06-26 06:05:02,788 - Execution time: 0.049604 seconds
+2024-06-26 06:05:02,788 - Search result sent to ('127.0.0.1', 60031)
+2024-06-26 06:05:02,789 - Received query: hello from ('127.0.0.1', 60032)
+2024-06-26 06:05:02,840 - Execution time: 0.049988 seconds
+2024-06-26 06:05:02,840 - Search result sent to ('127.0.0.1', 60032)
+2024-06-26 06:05:02,840 - Received query: hello from ('127.0.0.1', 60033)
+2024-06-26 06:05:02,889 - Execution time: 0.049001 seconds
+2024-06-26 06:05:02,890 - Search result sent to ('127.0.0.1', 60033)
+2024-06-26 06:05:02,890 - Received query: hello from ('127.0.0.1', 60034)
+2024-06-26 06:05:02,940 - Execution time: 0.049549 seconds
+2024-06-26 06:05:02,940 - Search result sent to ('127.0.0.1', 60034)
+2024-06-26 06:05:02,941 - Received query: hello from ('127.0.0.1', 60035)
+2024-06-26 06:05:02,991 - Execution time: 0.050000 seconds
+2024-06-26 06:05:02,991 - Search result sent to ('127.0.0.1', 60035)
+2024-06-26 06:05:02,992 - Received query: hello from ('127.0.0.1', 60036)
+2024-06-26 06:05:03,042 - Execution time: 0.050001 seconds
+2024-06-26 06:05:03,042 - Search result sent to ('127.0.0.1', 60036)
+2024-06-26 06:05:03,043 - Received query: hello from ('127.0.0.1', 60037)
+2024-06-26 06:05:03,092 - Execution time: 0.049242 seconds
+2024-06-26 06:05:03,092 - Search result sent to ('127.0.0.1', 60037)
+2024-06-26 06:05:03,093 - Received query: hello from ('127.0.0.1', 60038)
+2024-06-26 06:05:03,143 - Execution time: 0.049558 seconds
+2024-06-26 06:05:03,143 - Search result sent to ('127.0.0.1', 60038)
+2024-06-26 06:05:03,144 - Received query: hello from ('127.0.0.1', 60039)
+2024-06-26 06:05:03,195 - Execution time: 0.051000 seconds
+2024-06-26 06:05:03,195 - Search result sent to ('127.0.0.1', 60039)
+2024-06-26 06:05:03,196 - Received query: hello from ('127.0.0.1', 60040)
+2024-06-26 06:05:03,250 - Execution time: 0.053000 seconds
+2024-06-26 06:05:03,250 - Search result sent to ('127.0.0.1', 60040)
+2024-06-26 06:05:03,250 - Received query: hello from ('127.0.0.1', 60041)
+2024-06-26 06:05:03,304 - Execution time: 0.054000 seconds
+2024-06-26 06:05:03,304 - Search result sent to ('127.0.0.1', 60041)
+2024-06-26 06:05:03,305 - Received query: hello from ('127.0.0.1', 60042)
+2024-06-26 06:05:03,354 - Execution time: 0.049574 seconds
+2024-06-26 06:05:03,354 - Search result sent to ('127.0.0.1', 60042)
+2024-06-26 06:05:03,355 - Received query: hello from ('127.0.0.1', 60043)
+2024-06-26 06:05:03,404 - Execution time: 0.049001 seconds
+2024-06-26 06:05:03,405 - Search result sent to ('127.0.0.1', 60043)
+2024-06-26 06:05:03,405 - Received query: hello from ('127.0.0.1', 60044)
+2024-06-26 06:05:03,455 - Execution time: 0.050000 seconds
+2024-06-26 06:05:03,455 - Search result sent to ('127.0.0.1', 60044)
+2024-06-26 06:05:03,456 - Received query: hello from ('127.0.0.1', 60045)
+2024-06-26 06:05:03,507 - Execution time: 0.051596 seconds
+2024-06-26 06:05:03,507 - Search result sent to ('127.0.0.1', 60045)
+2024-06-26 06:05:03,508 - Received query: hello from ('127.0.0.1', 60046)
+2024-06-26 06:05:03,557 - Execution time: 0.049000 seconds
+2024-06-26 06:05:03,557 - Search result sent to ('127.0.0.1', 60046)
+2024-06-26 06:05:03,558 - Received query: hello from ('127.0.0.1', 60047)
+2024-06-26 06:05:03,608 - Execution time: 0.049999 seconds
+2024-06-26 06:05:03,608 - Search result sent to ('127.0.0.1', 60047)
+2024-06-26 06:05:03,609 - Received query: hello from ('127.0.0.1', 60048)
+2024-06-26 06:05:03,658 - Execution time: 0.048999 seconds
+2024-06-26 06:05:03,658 - Search result sent to ('127.0.0.1', 60048)
+2024-06-26 06:05:03,659 - Received query: hello from ('127.0.0.1', 60049)
+2024-06-26 06:05:03,708 - Execution time: 0.049556 seconds
+2024-06-26 06:05:03,708 - Search result sent to ('127.0.0.1', 60049)
+2024-06-26 06:05:03,709 - Received query: hello from ('127.0.0.1', 60050)
+2024-06-26 06:05:03,760 - Execution time: 0.051079 seconds
+2024-06-26 06:05:03,760 - Search result sent to ('127.0.0.1', 60050)
+2024-06-26 06:05:03,761 - Received query: hello from ('127.0.0.1', 60051)
+2024-06-26 06:05:03,815 - Execution time: 0.053818 seconds
+2024-06-26 06:05:03,815 - Search result sent to ('127.0.0.1', 60051)
+2024-06-26 06:05:03,815 - Received query: hello from ('127.0.0.1', 60052)
+2024-06-26 06:05:03,866 - Execution time: 0.050599 seconds
+2024-06-26 06:05:03,866 - Search result sent to ('127.0.0.1', 60052)
+2024-06-26 06:05:03,866 - Received query: hello from ('127.0.0.1', 60053)
+2024-06-26 06:05:03,917 - Execution time: 0.050999 seconds
+2024-06-26 06:05:03,917 - Search result sent to ('127.0.0.1', 60053)
+2024-06-26 06:05:03,918 - Received query: hello from ('127.0.0.1', 60054)
+2024-06-26 06:05:03,967 - Execution time: 0.049000 seconds
+2024-06-26 06:05:03,967 - Search result sent to ('127.0.0.1', 60054)
+2024-06-26 06:05:03,968 - Received query: hello from ('127.0.0.1', 60055)
+2024-06-26 06:05:04,024 - Execution time: 0.055997 seconds
+2024-06-26 06:05:04,024 - Search result sent to ('127.0.0.1', 60055)
+2024-06-26 06:05:04,024 - Received query: hello from ('127.0.0.1', 60056)
+2024-06-26 06:05:04,074 - Execution time: 0.050000 seconds
+2024-06-26 06:05:04,074 - Search result sent to ('127.0.0.1', 60056)
+2024-06-26 06:05:04,075 - Received query: hello from ('127.0.0.1', 60057)
+2024-06-26 06:05:04,124 - Execution time: 0.049549 seconds
+2024-06-26 06:05:04,124 - Search result sent to ('127.0.0.1', 60057)
+2024-06-26 06:05:04,125 - Received query: hello from ('127.0.0.1', 60058)
+2024-06-26 06:05:04,174 - Execution time: 0.048998 seconds
+2024-06-26 06:05:04,174 - Search result sent to ('127.0.0.1', 60058)
+2024-06-26 06:05:04,175 - Received query: hello from ('127.0.0.1', 60059)
+2024-06-26 06:05:04,224 - Execution time: 0.050001 seconds
+2024-06-26 06:05:04,224 - Search result sent to ('127.0.0.1', 60059)
+2024-06-26 06:05:04,225 - Received query: hello from ('127.0.0.1', 60060)
+2024-06-26 06:05:04,275 - Execution time: 0.050000 seconds
+2024-06-26 06:05:04,276 - Search result sent to ('127.0.0.1', 60060)
+2024-06-26 06:05:04,276 - Received query: hello from ('127.0.0.1', 60061)
+2024-06-26 06:05:04,326 - Execution time: 0.049595 seconds
+2024-06-26 06:05:04,326 - Search result sent to ('127.0.0.1', 60061)
+2024-06-26 06:05:04,327 - Received query: hello from ('127.0.0.1', 60062)
+2024-06-26 06:05:04,376 - Execution time: 0.049000 seconds
+2024-06-26 06:05:04,376 - Search result sent to ('127.0.0.1', 60062)
+2024-06-26 06:05:04,377 - Received query: hello from ('127.0.0.1', 60063)
+2024-06-26 06:05:04,427 - Execution time: 0.049999 seconds
+2024-06-26 06:05:04,427 - Search result sent to ('127.0.0.1', 60063)
+2024-06-26 06:05:04,428 - Received query: hello from ('127.0.0.1', 60064)
+2024-06-26 06:05:04,477 - Execution time: 0.049000 seconds
+2024-06-26 06:05:04,477 - Search result sent to ('127.0.0.1', 60064)
+2024-06-26 06:05:04,478 - Received query: hello from ('127.0.0.1', 60065)
+2024-06-26 06:05:04,528 - Execution time: 0.049573 seconds
+2024-06-26 06:05:04,528 - Search result sent to ('127.0.0.1', 60065)
+2024-06-26 06:05:04,529 - Received query: hello from ('127.0.0.1', 60066)
+2024-06-26 06:05:04,578 - Execution time: 0.049001 seconds
+2024-06-26 06:05:04,578 - Search result sent to ('127.0.0.1', 60066)
+2024-06-26 06:05:04,579 - Received query: hello from ('127.0.0.1', 60067)
+2024-06-26 06:05:04,628 - Execution time: 0.048999 seconds
+2024-06-26 06:05:04,628 - Search result sent to ('127.0.0.1', 60067)
+2024-06-26 06:05:04,629 - Received query: hello from ('127.0.0.1', 60068)
+2024-06-26 06:05:04,681 - Execution time: 0.051999 seconds
+2024-06-26 06:05:04,681 - Search result sent to ('127.0.0.1', 60068)
+2024-06-26 06:05:04,682 - Received query: hello from ('127.0.0.1', 60069)
+2024-06-26 06:05:04,731 - Execution time: 0.049609 seconds
+2024-06-26 06:05:04,731 - Search result sent to ('127.0.0.1', 60069)
+2024-06-26 06:05:04,732 - Received query: hello from ('127.0.0.1', 60070)
+2024-06-26 06:05:04,788 - Execution time: 0.055471 seconds
+2024-06-26 06:05:04,788 - Search result sent to ('127.0.0.1', 60070)
+2024-06-26 06:05:04,788 - Received query: hello from ('127.0.0.1', 60071)
+2024-06-26 06:05:04,838 - Execution time: 0.049988 seconds
+2024-06-26 06:05:04,838 - Search result sent to ('127.0.0.1', 60071)
+2024-06-26 06:05:04,839 - Received query: hello from ('127.0.0.1', 60072)
+2024-06-26 06:05:04,888 - Execution time: 0.049006 seconds
+2024-06-26 06:05:04,889 - Search result sent to ('127.0.0.1', 60072)
+2024-06-26 06:05:04,889 - Received query: hello from ('127.0.0.1', 60073)
+2024-06-26 06:05:04,938 - Execution time: 0.049576 seconds
+2024-06-26 06:05:04,938 - Search result sent to ('127.0.0.1', 60073)
+2024-06-26 06:05:04,939 - Received query: hello from ('127.0.0.1', 60074)
+2024-06-26 06:05:04,988 - Execution time: 0.049000 seconds
+2024-06-26 06:05:04,988 - Search result sent to ('127.0.0.1', 60074)
+2024-06-26 06:05:04,989 - Received query: hello from ('127.0.0.1', 60075)
+2024-06-26 06:05:05,040 - Execution time: 0.051000 seconds
+2024-06-26 06:05:05,040 - Search result sent to ('127.0.0.1', 60075)
+2024-06-26 06:05:05,041 - Received query: hello from ('127.0.0.1', 60076)
+2024-06-26 06:05:05,090 - Execution time: 0.049000 seconds
+2024-06-26 06:05:05,090 - Search result sent to ('127.0.0.1', 60076)
+2024-06-26 06:05:05,091 - Received query: hello from ('127.0.0.1', 60077)
+2024-06-26 06:05:05,142 - Execution time: 0.049613 seconds
+2024-06-26 06:05:05,142 - Search result sent to ('127.0.0.1', 60077)
+2024-06-26 06:05:05,142 - Received query: hello from ('127.0.0.1', 60078)
+2024-06-26 06:05:05,192 - Execution time: 0.050000 seconds
+2024-06-26 06:05:05,192 - Search result sent to ('127.0.0.1', 60078)
+2024-06-26 06:05:05,193 - Received query: hello from ('127.0.0.1', 60079)
+2024-06-26 06:05:05,242 - Execution time: 0.048999 seconds
+2024-06-26 06:05:05,242 - Search result sent to ('127.0.0.1', 60079)
+2024-06-26 06:05:05,243 - Received query: hello from ('127.0.0.1', 60080)
+2024-06-26 06:05:05,292 - Execution time: 0.049000 seconds
+2024-06-26 06:05:05,292 - Search result sent to ('127.0.0.1', 60080)
+2024-06-26 06:05:05,293 - Received query: hello from ('127.0.0.1', 60081)
+2024-06-26 06:05:05,342 - Execution time: 0.049521 seconds
+2024-06-26 06:05:05,342 - Search result sent to ('127.0.0.1', 60081)
+2024-06-26 06:05:05,343 - Received query: hello from ('127.0.0.1', 60082)
+2024-06-26 06:05:05,395 - Execution time: 0.051998 seconds
+2024-06-26 06:05:05,395 - Search result sent to ('127.0.0.1', 60082)
+2024-06-26 06:05:05,396 - Received query: hello from ('127.0.0.1', 60083)
+2024-06-26 06:05:05,445 - Execution time: 0.049030 seconds
+2024-06-26 06:05:05,445 - Search result sent to ('127.0.0.1', 60083)
+2024-06-26 06:05:05,446 - Received query: hello from ('127.0.0.1', 60084)
+2024-06-26 06:05:05,495 - Execution time: 0.049001 seconds
+2024-06-26 06:05:05,495 - Search result sent to ('127.0.0.1', 60084)
+2024-06-26 06:05:05,496 - Received query: hello from ('127.0.0.1', 60085)
+2024-06-26 06:05:05,545 - Execution time: 0.049026 seconds
+2024-06-26 06:05:05,546 - Search result sent to ('127.0.0.1', 60085)
+2024-06-26 06:05:05,546 - Received query: hello from ('127.0.0.1', 60086)
+2024-06-26 06:05:05,596 - Execution time: 0.049630 seconds
+2024-06-26 06:05:05,596 - Search result sent to ('127.0.0.1', 60086)
+2024-06-26 06:05:05,597 - Received query: hello from ('127.0.0.1', 60087)
+2024-06-26 06:05:05,648 - Execution time: 0.050972 seconds
+2024-06-26 06:05:05,648 - Search result sent to ('127.0.0.1', 60087)
+2024-06-26 06:05:05,649 - Received query: hello from ('127.0.0.1', 60088)
+2024-06-26 06:05:05,699 - Execution time: 0.050030 seconds
+2024-06-26 06:05:05,699 - Search result sent to ('127.0.0.1', 60088)
+2024-06-26 06:05:05,700 - Received query: hello from ('127.0.0.1', 60089)
+2024-06-26 06:05:05,749 - Execution time: 0.049027 seconds
+2024-06-26 06:05:05,749 - Search result sent to ('127.0.0.1', 60089)
+2024-06-26 06:05:05,750 - Received query: hello from ('127.0.0.1', 60090)
+2024-06-26 06:05:05,800 - Execution time: 0.049610 seconds
+2024-06-26 06:05:05,800 - Search result sent to ('127.0.0.1', 60090)
+2024-06-26 06:05:05,801 - Received query: hello from ('127.0.0.1', 60091)
+2024-06-26 06:05:05,851 - Execution time: 0.049927 seconds
+2024-06-26 06:05:05,851 - Search result sent to ('127.0.0.1', 60091)
+2024-06-26 06:05:05,852 - Received query: hello from ('127.0.0.1', 60092)
+2024-06-26 06:05:05,903 - Execution time: 0.051008 seconds
+2024-06-26 06:05:05,903 - Search result sent to ('127.0.0.1', 60092)
+2024-06-26 06:05:05,904 - Received query: hello from ('127.0.0.1', 60093)
+2024-06-26 06:05:05,953 - Execution time: 0.049031 seconds
+2024-06-26 06:05:05,953 - Search result sent to ('127.0.0.1', 60093)
+2024-06-26 06:05:05,954 - Received query: hello from ('127.0.0.1', 60094)
+2024-06-26 06:05:06,003 - Execution time: 0.049620 seconds
+2024-06-26 06:05:06,003 - Search result sent to ('127.0.0.1', 60094)
+2024-06-26 06:05:06,004 - Received query: hello from ('127.0.0.1', 60095)
+2024-06-26 06:05:06,053 - Execution time: 0.049032 seconds
+2024-06-26 06:05:06,053 - Search result sent to ('127.0.0.1', 60095)
+2024-06-26 06:05:06,054 - Received query: hello from ('127.0.0.1', 60096)
+2024-06-26 06:05:06,103 - Execution time: 0.049024 seconds
+2024-06-26 06:05:06,103 - Search result sent to ('127.0.0.1', 60096)
